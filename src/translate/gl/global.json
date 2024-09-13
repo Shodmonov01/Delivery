@@ -1,0 +1,525 @@
+{
+  "nav": {
+    "nav1": "Diensten",
+    "nav2": "Calculator",
+    "nav3": "Recensies",
+    "nav4": "Blog",
+    "auth1": "Inloggen",
+    "auth2": "Registratie"
+  },
+  "hero1": {
+    "title": "Snelle en betrouwbare levering - Uw tijd is kostbaar!",
+    "ul": {
+      "li": {
+        "title": "Ontmoeting binnen 60-120 minuten",
+        "text": "In heel Duitsland en in alle grote steden van Europa - momenteel ongeveer binnen 72 minuten."
+      },
+      "li2": {
+        "title": "Levering op de beste tijden",
+        "text": "Wij verzorgen directe verzending en leveren goederen nog dezelfde dag."
+      },
+      "li3": {
+        "title": "Zorgeloos transport",
+        "text": "Wij zorgen voor naadloos transport en besteden aandacht aan alle details."
+      }
+    },
+    "btn": {
+      "left": "Bereken de prijs nu",
+      "right": "en reserveer direct",
+      "text": "In de afgelopen 12 maanden hebben we meer dan 36.000 zendingen afgeleverd."
+    }
+  },
+  "section1": {
+    "title": "Waarom kiezen voor UK2EU",
+    "card": {
+      "card1": {
+        "title": "Efficiënt expressvervoer:",
+        "text": "Ons eigen wagenpark is aangepast voor het verwerken van expresszendingen, waardoor we snellere doorlooptijden en tijdige levering kunnen garanderen."
+      },
+      "card2": {
+        "title": "Betrouwbare LTL-oplossingen",
+        "text": "Voor kleine vrachtvolumes bieden onze betrouwbare onderaannemers flexibele en kosteneffectieve LTL-opties die aansluiten bij uw specifieke verzendbehoeften."
+      },
+      "card3": {
+        "title": "Transparantie en communicatie",
+        "text": "Wij geloven in transparante communicatie en houden u gedurende het hele transportproces op de hoogte. Ons klantenserviceteam staat altijd klaar om snel op uw vragen te reageren."
+      },
+      "card4": {
+        "title": "Voortdurende verbetering",
+        "text": "We streven naar voortdurende verbetering en verbeteren regelmatig onze diensten om ons aan te passen aan de veranderende omstandigheden na de BREXIT en aan uw veranderende eisen."
+      },
+      "card5": {
+        "text": "Bij UK2EU zijn we er trots op uw transportproces te vereenvoudigen. Onze focus op klanttevredenheid drijft ons om betrouwbare, efficiënte en kosteneffectieve oplossingen te bieden voor al uw leveringsbehoeften. Kies UK2EU als uw transportpartner en laat ons de complexiteiten van het post-BREXIT-vervoer voor u afhandelen, zodat u zich kunt concentreren op de groei van uw bedrijf. Voor vragen of om te beginnen met het verzenden van uw zendingen, aarzel niet om contact op te nemen met ons gespecialiseerde team. Wij kijken ernaar uit om u van dienst te zijn! Het UK2EU-team"
+      }
+    }
+  },
+  "section2": {
+    "title": "Met UK2EU versturen meer dan 20.000 klanten goederen sneller"
+  },
+  "section3": {
+    "title": "Onze koeriersvoertuigen",
+    "text": "In de tabel hieronder vindt u onze standaard voertuigen voor expreslevering met een korte beschrijving van de belangrijkste informatie over hen.",
+    "card": {
+      "title": "Kleine bestelwagen",
+      "len": "cm",
+      "weight": "maximaal 400 kg",
+      "count": "tot 2 pallets",
+      "sum": "vanaf"
+    },
+    "card2": {
+      "title": "Middelgrote bestelwagen",
+      "len": "cm",
+      "weight": "maximaal 800 kg",
+      "count": "tot 4 pallets",
+      "sum": "vanaf"
+    },
+    "card3": {
+      "title": "Grote bestelwagen",
+      "len": "cm",
+      "weight": "maximaal 1200 kg",
+      "count": "tot 8 pallets",
+      "sum": "vanaf"
+    },
+    "card4": {
+      "title": "Laadklep",
+      "len": "cm",
+      "weight": "maximaal 800 kg",
+      "count": "tot 8 pallets",
+      "sum": "vanaf"
+    }
+  },
+  "section4": {
+    "li1": "Achter laden",
+    "li2": "Zijdelings laden",
+    "li3": "Boven laden",
+    "li4": "Extra informatie",
+    "no": "Nee",
+    "desc": "Eenvoudig laden van zware pakketten (elk met een gewicht van niet meer dan 400 kg)"
+  },
+  "section5": {
+    "title": "Wat wilt u verzenden?",
+    "title1": "Kleine verhuizingen",
+    "title2": "Pakketbezorging",
+    "title3": "Vintage meubelen",
+    "title4": "Documenten",
+    "title5": "Palletgoederen"
+  },
+  "hero2": {
+    "title": "Koeriersdienst voor direct transport",
+    "title2": "Vereenvoudiging van het vervoer na BREXIT tussen het VK en EU-landen. Welkom bij UK2EU, uw betrouwbare logistieke partner voor naadloze transportoplossingen tussen het VK en EU-landen. Met ons eigen wagenpark voor expressvervoer en een netwerk van betrouwbare onderaannemers voor vrachtvervoer (LTL) zijn we hier om uw transportbehoeften na BREXIT te vereenvoudigen.",
+    "title3": "Aangezien het post-BREXIT-tijdperk nieuwe uitdagingen met zich meebrengt op het gebied van grensoverschrijdende logistiek, is ons primaire doel om internationaal vervoer eenvoudig en probleemloos te maken voor onze gewaardeerde klanten. Ons team van experts is goed bekend met de complexiteiten van de regels en douaneprocedures na BREXIT, wat zorgt voor een soepele levering in elke fase."
+  },
+  "section6": {
+    "title": "Veelgestelde vragen",
+    "ask1": "Is UK2EU een Europese vrachtbeurs?",
+    "ask2": "Welke landen worden gedekt door de UK2EU-transportbeurs?",
+    "ask3": "Wie kan zich abonneren op de UK2EU digitale vrachtbeurs?",
+    "ask4": "Hoeveel kost een abonnement op de UK2EU-transportbeurs?"
+  },
+  "section7": {
+    "hero": "Onze Recensies",
+    "title": "Wat onze klanten zeggen",
+    "name": "Alexandra S.",
+    "date": "Een maand geleden",
+    "message": "Uitstekende service met goede communicatie, behulpzame koeriers en zeer concurrerende prijzen."
+  },
+  "feedback": {
+    "title": "Neem contact met ons op!",
+    "name": "Uw naam",
+    "placeholder": "Voer uw naam in",
+    "num": "Telefoonnummer",
+    "message": "Bericht",
+    "send": "Versturen"
+  },
+  "footer": {
+    "col1": {
+      "title": "Bedrijf",
+      "li1": "Over ons",
+      "li2": "Diensten",
+      "li3": "Prijzen",
+      "li4": "Recensies"
+    },
+    "col2": {
+      "title": "Hulp",
+      "li1": "Privacybeleid",
+      "li2": "Veelgestelde vragen",
+      "li3": "Blog",
+      "li4": "Partners"
+    },
+    "col3": "Blijf op de hoogte van ontwikkelingen in de logistiek",
+    "btn": "Neem contact met ons op"
+  },
+  "services": {
+    "title": "Onze Diensten",
+    "card1": "Kleine Verhuizingen",
+    "card2": "Pakketbezorging",
+    "card3": "Vintage Meubelen",
+    "hover1": "Nu boeken",
+    "hover2": "Meer informatie",
+    "blog": {
+      "title": "Onze Blog",
+      "card1": {
+        "title": "Hoe u uw vrachtaanbiedingen zichtbaarder kunt maken",
+        "text": "Nu, met Teleroute, is het proces eenvoudiger naarmate u gedetailleerder wordt...",
+        "btn": "Lees Meer"
+      }
+    }
+  },
+  "blog": {
+    "title": "Onze Blog",
+    "card": {
+      "title": "Vijf Manieren om Transportkosten te Verlagen",
+      "text": "Er zijn veel tips die we gemakkelijk kunnen volgen om transportkosten te verlagen.",
+      "btn": "Lees Meer"
+    }
+  },
+  "registration": {
+    "title": "Registreer als Klant",
+    "ui1": "Gebruikersnaam",
+    "pl1": "Voer uw gebruikersnaam in",
+    "ui2": "Wachtwoord",
+    "pl2": "Voer uw wachtwoord in",
+    "ui3": "E-mailadres",
+    "pl3": "Voer uw e-mailadres in",
+    "ask1": "Ik accepteer de Gebruiksvoorwaarden voor gebruikers",
+    "ask2": "Ik ga akkoord met het ontvangen van e-mails over UK2EU-aanbiedingen",
+    "text": "UK2EU verwerkt gegevens om contracten, wettelijke verplichtingen en toestemmingen uit te voeren. U heeft het recht om toegang te krijgen, te corrigeren, te verwijderen, de verwerking te beperken, gegevensoverdraagbaarheid, toestemming in te trekken en bezwaar te maken. Privacybeleid",
+    "ask3": "Heeft u al een account?",
+    "res": "Inloggen",
+    "btn": "Registreren"
+  },
+  "login": {
+    "title": "Inloggen",
+    "ask1": "Heeft u geen account?",
+    "res1": "Registreren",
+    "ui1": "E-mail",
+    "pl1": "Voer uw e-mailadres in",
+    "pl2": "Voer uw e-mailadres in",
+    "ask2": "Onthoud mij",
+    "btn": "Inloggen",
+    "forgot": "Ik ben mijn wachtwoord vergeten"
+  },
+  "password": {
+    "title": "Wachtwoord Vergeten?",
+    "ui1": "E-mail",
+    "pl1": "Voer uw e-mailadres in",
+    "btn": "Stel een nieuw wachtwoord in",
+    "btn2": "Terug naar Inloggen"
+  },
+  "detail": {
+    "title": "Vijf Manieren om Transportkosten te Verlagen",
+    "text": "Transport is een essentieel aspect voor veel bedrijven; in feite kunnen transportkosten aanzienlijke invloed hebben op de winstgevendheid van een bedrijf. Gelukkig zijn er tal van strategieën die kunnen helpen om transportkosten te verlagen, waardoor de winstgevendheid en concurrentiepositie van het bedrijf worden verbeterd. In dit artikel zullen we vijf manieren bekijken om transportkosten te verlagen.",
+    "title2": "Implementatie van Geavanceerde Technologieën",
+    "text2": "Het implementeren van geavanceerde technologieën kan ook helpen om transportkosten te verlagen. Het installeren van GPS-apparaten kan bijvoorbeeld vervoerders helpen om hun voertuigen te monitoren en inefficiënties te identificeren. Daarnaast kunnen vervoerders geavanceerde communicatietechnologieën inzetten om de communicatie tussen chauffeurs en logistieke operators te verbeteren, waardoor de efficiëntie van transportoperaties wordt verhoogd. Met UK2EU wordt deze technologie volledig benut, en met UK2EU heeft u de mogelijkheid om optimaal te profiteren van de voordelen van vrachtuitwisseling. Het is eenvoudig om ladingen en partners te vinden en deals te sluiten in minder dan een minuut, rechtstreeks vanaf uw telefoon."
+  },
+  "cal": {
+    "form": {
+      "t1": "Productcategorie",
+      "t2": "Route en Data",
+      "t3": "Gedetailleerde Productinformatie",
+      "t4": "Beknopte Informatie",
+      "p1": "Meubelvervoer",
+      "hero": "Kies een categorie om de beste transportaanbiedingen te ontvangen en tot 60% te besparen!",
+      "btn": "Volgende"
+    },
+    "step2": {
+      "hero": "Kies een Route",
+      "l1": "van",
+      "l2": "naar",
+      "p": "Voer het afleveradres in",
+      "search": "zoek",
+      "d1": "Ik wil een datum specificeren",
+      "d2": "ONTVANGSTDATUM",
+      "yes": "Ja",
+      "no": "Nee",
+      "d3": "LEVERDATUM",
+      "p2": "Selecteer een datum",
+      "btn1": "Ga naar Productdetails",
+      "btn2": "Volgende"
+    },
+    "step3": {
+      "hero": "Beschrijf uw producten om nauwkeurige schattingen te krijgen",
+      "f1": "Wat wilt u verzenden?",
+      "p1": "bijvoorbeeld, een JCB-tractor",
+      "f2": "Lengte",
+      "f3": "Breedte",
+      "f4": "Hoogte",
+      "f5": "Gewicht",
+      "p2": "CM",
+      "p3": "KG",
+      "ask": "Zijn de afmetingen nauwkeurig?",
+      "yes": "Ja",
+      "no": "Nee",
+      "del": "Verwijderen",
+      "p4": "Voeg een andere toe",
+      "p5": "Ik vermeld de levering als",
+      "p6": "Selecteer",
+      "btn1": "Ga naar Productdetails",
+      "btn2": "Volgende"
+    },
+    "step4": {
+      "hero": "Specificeer gratis en zonder verplichtingen leveren",
+      "btn1": "Nu boeken",
+      "p1": "Routes en Data",
+      "p2": "Levering",
+      "p3": "Bewerken",
+      "p4": "Gedetailleerde Productinformatie",
+      "f1": "LxBxH",
+      "f2": "Gewicht",
+      "f3": "Aantal",
+      "ask": "Zijn de afmetingen nauwkeurig",
+      "yes": "Ja",
+      "no": "Nee",
+      "res": "TOTAAL GEWICHT",
+      "res2": "IK VERMELD DE LEVERING ALS",
+      "res3": "Particulier",
+      "res4": "Categorie",
+      "res5": "Documentlevering",
+      "res6": "ADVERTENTIENAAM",
+      "res7": "Kantoordocumenten x6"
+    }
+  },
+  "user": {
+    "nav1": "Nu boeken",
+    "nav2": "Mijn zendingen",
+    "nav3": "Calculator",
+    "nav4": "Mijn zendingen",
+    "nav5": "Berichten",
+    "title": "Zendingen",
+    "title2": "Geschiedenis",
+    "title3": "Datumbereik",
+    "title4": "In behandeling",
+    "title5": "Ladingdetails",
+    "title6": "Nieuwe aanvraag maken",
+    "title7": "Status",
+    "btn1": "Wissen",
+    "btn2": "Tonen"
+  },
+  "calsection": {
+    "title": "Bereken Levering",
+    "cl1": "Van",
+    "cl2": "Naar",
+    "cl3": "Afmetingen",
+    "cl4": "Berekenen",
+    "cl5": "Bestel Volledige Vrachtwagen",
+    "cl6": "LTL Vracht",
+    "cl7": "Bevestigen",
+    "a1": "Lengte",
+    "a2": "Breedte",
+    "a3": "Hoogte",
+    "a4": "Gewicht",
+    "sm": "cm",
+    "kg": "kg",
+    "hero": "Kies Vrachttype",
+    "btn": "Ga naar Calculator",
+    "w1": "Servicekosten",
+    "w2": "Prijs per km",
+    "w3": "TOTAAL:",
+    "w4": "Wachtwoord vergeten?",
+    "res": "Wachtwoord Resetten",
+    "res2": "Voer Nieuw Wachtwoord In:"
+  },
+  "partners": {
+    "title": "Partners",
+    "stitle": "Onze partners zullen de volgende mogelijkheden hebben",
+    "ul": {
+      "li1": "om het volledige pakket aan UK2EU-diensten te verkopen in Rusland op het toegewezen grondgebied",
+      "li2": "om pakketten en goederen te verzamelen, af te leveren, te ontvangen en te distribueren aan afzenders en ontvangers op het toegewezen grondgebied",
+      "li3": "om trainingen te volgen binnen het bedrijf over servicepromotie, verkoop en het organiseren van productieactiviteiten",
+      "li4": "om het UK2EU-logo en andere elementen van de UK2EU-corporate identity te gebruiken in Rusland op voertuigen, bij het decoreren van kantoren en op het personeeluniform",
+      "li5": "om bedrijfsreclame- en informatiemateriaal te gebruiken ter promotie van UK2EU-diensten in Rusland."
+    },
+    "text1": "Grijp je kans om deel uit te maken van een dynamisch groeiend bedrijf!",
+    "text2": "We zullen u graag gedetailleerdere informatie verstrekken over de samenwerkingsvoorwaarden en een pakket documenten voor contractafsluiting - neem contact met ons op via het e-mailadres ssuport@uk2eu.com"
+  },
+  "ref": {
+    "title": "Referentie",
+    "text1": "Faciliteren van post-BREXIT-vervoer tussen het Verenigd Koninkrijk en EU-landen",
+    "text": "Welkom bij UK2EU, uw betrouwbare expediteur voor naadloze transportoplossingen tussen het Verenigd Koninkrijk en EU-landen. Met onze eigen vloot voertuigen voor expresvervoer en een netwerk van betrouwbare onderaannemers voor LTL-vrachtvervoer, staan we klaar om uw transportbehoeften na BREXIT te vereenvoudigen.",
+    "text2": "Aangezien het post-BREXIT-tijdperk nieuwe uitdagingen met zich meebrengt op het gebied van grensoverschrijdende logistiek, is ons belangrijkste doel om internationaal transport eenvoudig en probleemloos te maken voor onze gewaardeerde klanten. Ons team van experts is goed thuis in de complexiteit van de regels na BREXIT en douaneprocedures, en zorgt voor een vlekkeloze levering op elk moment.",
+    "ask": "Het is belangrijk om te onthouden dat de koeriersdienst zich moet houden aan wetten en voorschriften met betrekking tot het vervoer van bepaalde goederen. Daarom moet het bedrijf de volgende categorieën goederen niet vervoeren:",
+    "res1": "Goederen verboden bij wet, zoals verdovende middelen, wapens, explosieven, etc.",
+    "res2": "Gevaarlijke en bederfelijke goederen die speciale opslag- en transportomstandigheden vereisen, zoals medicijnen, chemicaliën, etc.",
+    "res3": "Goederen die niet zijn vrijgegeven door de douane, zoals namaakgoederen of die inbreuk maken op intellectuele eigendomsrechten.",
+    "res4": "Dieren en vogels, behalve in gevallen waarin het bedrijf speciale vergunningen en vergunningen heeft voor dierentransport.",
+    "res5": "Persoonlijke documenten en waardevolle spullen, zoals paspoorten, geld, sieraden, etc., zonder voorafgaande overeenstemming met de klant.",
+    "fin": "Het naleven van deze regels en verboden zal het bedrijf helpen juridische problemen te voorkomen, zijn werknemers en klanten te beschermen tegen negatieve gevolgen, en een kwalitatieve service en veilige goederenlevering te garanderen."
+  },
+  "pol": {
+    "foot": "© Alle rechten voorbehouden",
+    "title": "Politics and Confidentiality",
+    "p1": "1. General Provisions. This policy for personal data processing is established in accordance with the requirements of the Federal Law of July 27, 2006, No. 152-FZ 'On Personal Data' (hereinafter referred to as the Personal Data Law) and defines the procedure for processing personal data and measures to ensure the security of personal data taken by LLC 'Delivery' (hereinafter referred to as the Operator).",
+    "p2": "1.1. The most important goal and condition of the Operator's activities is to ensure the rights and freedoms of individuals when processing their personal data, including the protection of the rights to privacy, personal, and family secrets.",
+    "p3": "1.2. This Operator's policy regarding the processing of personal data (hereinafter the 'Policy') applies to all information that the Operator may obtain about visitors to the Website.",
+    "p4": "2. Basic Concepts Used in the Policy",
+    "p5": "2.1. Automated processing of personal data - processing of personal data using information technology tools.",
+    "p6": "2.2. Blocking of personal data - temporary suspension of the processing of personal data (except in cases where processing is necessary to clarify personal data).",
+    "p7": "2.3. Website is a collection of graphic and informational documents, as well as software for computers and databases providing access to them on the Internet at a network address.",
+    "p8": "2.4. Personal data processing system - a set of personal data contained in databases, and information technologies and technical means processing them.",
+    "p9": "2.5. Depersonalization of personal data - actions resulting in the impossibility of determining the belonging of personal data to a specific User or other personal data subject without the use of additional information.",
+    "p10": "2.6. Processing of personal data - any action (operation) or set of actions (operations) performed using automation tools or without using such tools with personal data, including collection, recording, systematization, accumulation, storage, clarification (updating, modification), extraction, use, transfer (distribution, provision, access), depersonalization, blocking, deletion, destruction of personal data.",
+    "p11": "2.7. Operator - a state body, municipal body, legal or natural person, independently or jointly with other persons organizing and (or) carrying out the processing of personal data, as well as determining the purposes of processing personal data, the composition of personal data subject to processing, actions (operations) performed with personal data.",
+    "p12": "2.8. Personal data - any information relating to directly or indirectly identified or identifiable User of the website.",
+    "p13": "2.9. Personal data permitted for distribution by the personal data subject - personal data, access to which without restrictions is provided by the personal data subject by giving consent to the processing of personal data permitted for distribution by the personal data subject in the manner established by the legislation on personal data (hereinafter - personal data permitted for distribution).",
+    "p14": "2.10. User - any visitor to the website.",
+    "p15": "2.11. Provision of personal data - actions aimed at disclosing personal data to a specific person or group of persons.",
+    "p16": "2.12. Distribution of personal data - any actions aimed at disclosing personal data to an indefinite circle of persons (transfer of personal data) or making personal data available to the general public, including disclosing personal data in the media, placing in information and telecommunication networks, or accessing personal data in any other way.",
+    "p17": "2.13. Cross-border transfer of personal data - transfer of personal data to the territory of a foreign state to the authority of a foreign state, foreign individual or legal entity.",
+    "p18": "2.14. Destruction of personal data - any actions resulting in the destruction of personal data irreversibly with the impossibility of further restoring the content of personal data in the personal data information system and (or) physical media of personal data are destroyed.",
+    "p19": "3. Main Rights and Obligations of the Operator",
+    "p20": "3.1. The Operator has the following rights:",
+    "p21": "- to receive from the personal data subject accurate information and/or documents containing personal data;",
+    "p22": "- in case of withdrawal by the personal data subject of consent to the processing of personal data, the Operator has the right to continue processing personal data without the consent of the personal data subject if there are grounds specified in the Personal Data Law;",
+    "p23": "- independently determine the composition and list of measures necessary and sufficient to ensure the fulfillment of obligations provided for by the Personal Data Law and regulatory legal acts adopted in accordance with it, except in cases provided for by the Personal Data Law or other federal laws.",
+    "p24": "3.2. The Operator is obliged to:",
+    "p25": "- de betrokkene de informatie verstrekken over de verwerking van zijn persoonsgegevens op verzoek;",
+    "p26": "- de verwerking van persoonsgegevens organiseren in overeenstemming met de geldende wetgeving van de Russische Federatie;",
+    "p27": "- reageren op verzoeken en vragen van de betrokkenen en hun wettelijke vertegenwoordigers in overeenstemming met de vereisten van de wet inzake persoonsgegevens;",
+    "p28": "- de vereiste informatie verstrekken aan de autoriteit die toezicht houdt op de naleving van de rechten van de betrokkenen bij persoonsgegevens op verzoek van die autoriteit binnen 30 dagen na ontvangst van dat verzoek;",
+    "p29": "- deze Privacy Policy voor de verwerking van persoonsgegevens publiceren of zorgen voor onbeperkte toegang daartoe;",
+    "p30": "- wettelijke, organisatorische en technische maatregelen nemen om persoonsgegevens te beschermen tegen ongeoorloofde of onbedoelde toegang tot hen, vernietiging, wijziging, blokkering, kopiëren, verstrekken, verspreiden van persoonsgegevens, evenals andere onwettige handelingen met betrekking tot persoonsgegevens;",
+    "p31": "- de overdracht (verspreiding, verstrekking, toegang) van persoonsgegevens staken, de verwerking ervan staken en persoonsgegevens vernietigen overeenkomstig de bepalingen en gevallen zoals voorzien in de wet inzake persoonsgegevens;",
+    "p32": "- andere verplichtingen vervullen zoals voorzien in de wet inzake persoonsgegevens.",
+    "p33": "4. Belangrijkste rechten en verplichtingen van de betrokkenen bij persoonsgegevens",
+    "p34": "4.1. De betrokkenen bij persoonsgegevens hebben de volgende rechten:",
+    "p35": "- informatie ontvangen over de verwerking van hun persoonsgegevens, behalve in gevallen zoals bepaald door federale wetten. De informatie wordt verstrekt aan de betrokkene bij persoonsgegevens door de Operator in een toegankelijke vorm en mag geen persoonsgegevens bevatten die betrekking hebben op andere betrokkenen bij persoonsgegevens, behalve in gevallen waarin er wettelijke gronden zijn voor de openbaarmaking van dergelijke persoonsgegevens. De lijst met informatie en de procedure voor het verkrijgen ervan worden vastgesteld door de wet inzake persoonsgegevens;",
+    "p36": "- van de Operator eisen dat hun persoonsgegevens worden verduidelijkt, geblokkeerd of vernietigd indien de persoonsgegevens onvolledig, verouderd, onnauwkeurig, onrechtmatig verkregen zijn of niet nodig zijn voor het gestelde doel van verwerking, evenals maatregelen nemen die door de wet zijn voorzien om hun rechten te beschermen;",
+    "p37": "- voorafgaande toestemming geven voor de verwerking van hun persoonsgegevens voor het promoten van goederen, werken of diensten op de markt;",
+    "p38": "- hun toestemming voor de verwerking van hun persoonsgegevens intrekken;",
+    "p39": "- een beroep doen op de bevoegde autoriteit voor de bescherming van de rechten van betrokkenen bij persoonsgegevens of in rechte met een verzoek om ongeautoriseerde handelingen of nalatigheid van de Operator bij de verwerking van hun persoonsgegevens;",
+    "p40": "- andere rechten uitoefenen zoals voorzien in de wetgeving van de Russische Federatie.",
+    "p41": "4.2. De betrokkenen bij persoonsgegevens zijn verplicht om:",
+    "p42": "- de Operator te voorzien van accurate informatie over henzelf;",
+    "p43": "- de Operator op de hoogte te stellen van de verduidelijking (bijwerking, wijziging) van hun persoonsgegevens.",
+    "p44": "4.3. Personen die de Operator valse informatie hebben verstrekt over henzelf of informatie over een andere betrokkene bij persoonsgegevens zonder diens toestemming, zijn aansprakelijk overeenkomstig de wetgeving van de Russische Federatie.",
+    "p45": "5. De Operator heeft het recht om de volgende persoonsgegevens van de gebruiker te verwerken:",
+    "p46": "5.1. Achternaam, voornaam, voorletters.",
+    "p47": "5.2. Telefoonnummers.",
+    "p48": "5.3. Daarnaast verzamelt en verwerkt de website geanonimiseerde gegevens over bezoekers (inclusief cookies) met behulp van internetstatistieken services (Yandex Metrica, Google Analytics, etc.).",
+    "p49": "5.4. De bovengenoemde gegevens worden samengevoegd tot het algemene begrip van persoonsgegevens.",
+    "p50": "5.5. De Operator verwerkt geen bijzondere categorieën van persoonsgegevens met betrekking tot ras, nationaliteit, politieke opvattingen, religieuze of levensbeschouwelijke overtuigingen, intieme leven.",
+    "p51": "5.6. De verwerking van persoonsgegevens toegestaan voor distributie, onder de bijzondere categorieën van persoonsgegevens gespecificeerd in deel 1 van artikel 10 van de wet inzake persoonsgegevens, is toegestaan onder voorbehoud van verboden en voorwaarden zoals voorzien in artikel 10.1 van de wet inzake persoonsgegevens.",
+    "p52": "5.7. De toestemming van de gebruiker voor de verwerking van persoonsgegevens toegestaan voor distributie wordt afzonderlijk verleend van andere toestemmingen voor de verwerking van hun persoonsgegevens. Tegelijkertijd worden de vereisten zoals voorzien, met name in artikel 10.1 van de wet inzake persoonsgegevens, nageleefd. De vereisten voor de inhoud van deze toestemming worden vastgesteld door de bevoegde autoriteit voor de bescherming van de rechten van betrokkenen bij persoonsgegevens.",
+    "p53": "5.7.1. De toestemming voor de verwerking van persoonsgegevens toegestaan voor distributie wordt door de gebruiker rechtstreeks aan de Operator verstrekt.",
+    "p54": "5.7.2. De Operator is verplicht, binnen drie werkdagen na ontvangst van de toestemming van de gebruiker, informatie te publiceren over de voorwaarden voor verwerking, de aanwezigheid van verboden en voorwaarden voor de verwerking van persoonsgegevens toegestaan voor distributie door een onbeperkt aantal personen."
+  },
+  "sto": {
+    "st1": "Selecteer parameters voor de reservering!",
+    "btn": "Nu reserveren",
+    "st2": "Selecteer Service",
+    "st3": "Hoe werkt het?",
+    "blog": {
+      "bir": "Beoordeling en Verpakking",
+      "d1": "Op dit punt inspecteren professionele transporteurs vintage meubels, beoordelen hun staat en bepalen de nodige maatregelen voor het transport. Vervolgens worden de meubels zorgvuldig verpakt met hun specifieke kenmerken en vereisten om mogelijke schade tijdens het transport te voorkomen.",
+      "ikki": "Vervoer",
+      "d2": "Op dit punt worden vintage meubels geladen op gespecialiseerde voertuigen die veiligheid en bescherming tijdens het transport garanderen. Het transportteam transporteert de meubels naar de opgegeven bestemming, volgt een aangewezen route en houdt zich aan alle veiligheidsvoorschriften en normen.",
+      "uch": "Lossen en Plaatsen",
+      "d3": "Bij aankomst op de bestemming worden de meubels voorzichtig gelost en op de aangewezen plek geplaatst. Ons transportteam kan helpen met het plaatsen van meubels of andere aanvullende taken uitvoeren op verzoek. Het is belangrijk dat tijdens het lossen en plaatsen de meubels voorzichtig worden behandeld om mogelijke schade tijdens de behandeling te voorkomen."
+    },
+    "st4": "Recent Afgeleverde Items",
+    "st5": "Beste Prijzen voor Jouw Levering",
+    "st6": "Alleen Geverifieerde Transportdienstverleners",
+    "st7": "97% Tevreden Klanten sinds 2010",
+    "st8": "Wij Ondersteunen Milieuvriendelijk Transport",
+    "st9": "Productcategorie",
+    "st10": "Route en Data",
+    "st11": "Gedetailleerde Productinformatie",
+    "st12": "Korte Overzicht",
+    "st13": "Selecteer Datum",
+    "st14": "Van",
+    "st15": "Naar",
+    "st16": "Voer Afleveradres In",
+    "st17": "Gedetailleerde Productinformatie",
+    "st18": "Wat Wil Je Verzenden?",
+    "st19": "Lengte",
+    "st20": "bijv., JCB Tractor",
+    "st21": "Routes en Data",
+    "st22": "Bewerk",
+    "st23": "GEDRAGENDE PRODUCTINFORMATIE",
+    "st24": "LxBxH",
+    "st25": "Gewicht",
+    "st26": "Aantal",
+    "st27": "Zijn de afmetingen nauwkeurig?",
+    "st28": "TOTAAL GEWICHT",
+    "st29": "IK LIJST DE LEVERING ALS",
+    "st30": "Geen Informatie",
+    "st31": "Categorie",
+    "st32": "ADVERTENTIETITEL",
+    "st33": "Het was geboekt",
+    "st34": "Bespaar tot 60%",
+    "st35": "Levering",
+    "st36": "Onze Blog",
+    "st37": "Lees Meer",
+    "st38": "Nog niet geregistreerd op onze site? Doe het nu!",
+    "st39": "Registreren"
+  },
+  "work": {
+    "bir": {
+      "title": "Laden van pallets",
+      "text": "In deze fase worden de goederen die op pallets zijn geplaatst, geladen op het transportvoertuig. Het laden kan worden uitgevoerd met een vorkheftruck of andere gespecialiseerde apparatuur. De goederen moeten correct worden geplaatst en beveiligd op de pallets om schade te voorkomen en veiligheid tijdens het transport te garanderen."
+    },
+    "ikki": {
+      "title": "Transport van pallets",
+      "text": "Na het laden worden de goederen over de vereiste afstand vervoerd met het geselecteerde transportvoertuig. Het is belangrijk om voldoende bescherming van de goederen tijdens het transport te waarborgen tegen trillingen, stoten en andere externe invloeden."
+    },
+    "uch": {
+      "title": "Lossen",
+      "text": "Bij aankomst op de bestemming worden de goederen uit het transportvoertuig gelost met behulp van de geschikte apparatuur. Het lossen kan handmatig of met een vorkheftruck worden gedaan. De goederen worden vervolgens gecontroleerd op integriteit en correcte plaatsing op de pallets. Indien nodig kunnen ze worden verplaatst naar andere pallets of verpakt voor opslag of verder transport."
+    },
+    "turt": {
+      "title": "Bestelling en planning",
+      "text": "De klant plaatst een bestelling en verstrekt informatie over de meubelstukken en de vertrek- en afleverpunten."
+    },
+    "besh": {
+      "title": "Ophalen en transport",
+      "text": "De koerier komt om het meubilair op te halen en laadt het in het vrachtvervoer. Het meubilair wordt volgens de gekozen route naar de bestemming gebracht."
+    },
+    "olti": {
+      "title": "Lossen en installatie",
+      "text": "De koerier helpt met het lossen van het meubilair en draagt het naar binnen. Indien nodig kan de koerier ook helpen met de installatie of montage van het meubilair."
+    },
+    "yetti": {
+      "title": "Het plaatsen van de bestelling",
+      "text": "de klant plaatst een bestelling en geeft het afleveradres op. De koerier arriveert op de aangegeven locatie en haalt het pakket op. In dit proces kan de koerier om een bevestiging van de identiteit van de klant of een andere vorm van identificatie vragen."
+    },
+    "sakkiz": {
+      "title": "Levering en Tracking",
+      "text": "Tijdens het transport is de koerier verantwoordelijk voor het waarborgen van de veiligheid en integriteit van het pakket door de opgegeven route te volgen. Een belangrijk aspect is het volgen van de status van het pakket via speciale tracking systemen, die de klant informeren over de locatie en de verwachte levertijd."
+    },
+    "tuqqiz": {
+      "title": "Levering en Bevestiging",
+      "text": "bij aankomst op de bestemming voert de koerier de levering uit. De klant ontvangt het pakket en dient dit zorgvuldig te controleren op eventuele schade en om te zorgen dat het overeenkomt met de bestelling. De klant bevestigt de ontvangst van het pakket door het leveringsdocument te ondertekenen of eventuele problemen of schade aan te geven."
+    },
+    "un": {
+      "title": "Ontvangst en Voorbereiding van Documenten",
+      "text": "de klant overhandigt de benodigde documenten aan de koeriersdienst voor levering. De koerier controleert of alle benodigde documenten aanwezig zijn en bereidt ze voor op verzending, inclusief verpakking en het invullen van speciale leveringsformulieren."
+    },
+    "unbir": {
+      "title": "Transport en Tracking",
+      "text": "de koerier levert de documenten aan de geadresseerde overeenkomstig het opgegeven afleveradres. Tijdens het transport zorgt de koerier voor de veiligheid van de documenten en beveiligt deze. De klant kan de status van de levering volgen via een tracking systeem en wordt op de hoogte gehouden van de locatie van de documenten in real-time."
+    },
+    "unikki": {
+      "title": "Overhandiging en Bevestiging van Levering",
+      "text": "bij aankomst op de bestemming overhandigt de koerier de documenten aan de geadresseerde. De ontvanger controleert de ontvangen documenten zorgvuldig en, indien deze overeenkomen met de verwachtingen, bevestigt de levering, bijvoorbeeld met hun handtekening of laat een opmerking achter als er problemen of schade zijn. Als de geadresseerde afwezig is, kunnen de documenten worden overhandigd aan een vertrouwde persoon of achtergelaten op een gespecificeerde plaats, met bevestiging in de vorm van een notificatie of leveringshandtekening."
+    }
+  },
+  "stepone": {
+    "bir": "Pallets",
+    "ikki": "Pakketten",
+    "uch": "Documenten",
+    "turt": "Kleine verhuizingen"
+  },
+  "calc3": {
+    "title": "auto met oprit+",
+    "a1": "straatnaam",
+    "a2": "",
+    "a3": "huisnummer",
+    "a4": "",
+    "a5": "Bedankt voor uw aanvraag",
+    "a6": "Onze manager zal binnenkort contact met u opnemen"
+  },
+  "my_ads": "Mijn advertenties",
+  "user_profile": "Profiel \ngebruiker",
+  "account_details": "Accountgegevens \nrecords",
+  "exit": "Uitgang"
+}

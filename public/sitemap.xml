@@ -1,0 +1,229 @@
+
+    <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+      
+        <url>
+          <loc>http://www.begets62.beget.tech/</loc>
+          <lastmod>2023-12-26T14:08:36.906Z</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1</priority>
+        </url>
+      
+        <url>
+          <loc>http://www.begets62.beget.tech/services</loc>
+          <lastmod>2023-12-26T14:08:36.906Z</lastmod>
+          <changefreq>weekly</changefreq>
+          <priority>0.8</priority>
+        </url>
+      
+        <url>
+          <loc>http://www.begets62.beget.tech/services/:id</loc>
+          <lastmod>2023-12-26T14:08:36.906Z</lastmod>
+          <changefreq>weekly</changefreq>
+          <priority>0.8</priority>
+        </url>
+      
+        <url>
+          <loc>http://www.begets62.beget.tech/blog</loc>
+          <lastmod>2023-12-26T14:08:36.906Z</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.7</priority>
+        </url>
+      
+        <url>
+          <loc>http://www.begets62.beget.tech/blog/:id</loc>
+          <lastmod>2023-12-26T14:08:36.906Z</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.7</priority>
+        </url>
+      
+        <url>
+          <loc>http://www.begets62.beget.tech/example</loc>
+          <lastmod>2023-12-26T14:08:36.906Z</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.7</priority>
+        </url>
+      
+        <url>
+          <loc>http://www.begets62.beget.tech/reviews</loc>
+          <lastmod>2023-12-26T14:08:36.906Z</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.7</priority>
+        </url>
+      
+        <url>
+          <loc>http://www.begets62.beget.tech/calculator</loc>
+          <lastmod>2023-12-26T14:08:36.906Z</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.7</priority>
+        </url>
+      
+        <url>
+          <loc>http://www.begets62.beget.tech/admin</loc>
+          <lastmod>2023-12-26T14:08:36.906Z</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.7</priority>
+        </url>
+      
+        <url>
+          <loc>http://www.begets62.beget.tech/addclient</loc>
+          <lastmod>2023-12-26T14:08:36.906Z</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.7</priority>
+        </url>
+      
+        <url>
+          <loc>http://www.begets62.beget.tech/client</loc>
+          <lastmod>2023-12-26T14:08:36.906Z</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.7</priority>
+        </url>
+      
+        <url>
+          <loc>http://www.begets62.beget.tech/addshippers</loc>
+          <lastmod>2023-12-26T14:08:36.906Z</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.7</priority>
+        </url>
+      
+        <url>
+          <loc>http://www.begets62.beget.tech/editshippers/:id</loc>
+          <lastmod>2023-12-26T14:08:36.906Z</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.7</priority>
+        </url>
+      
+        <url>
+          <loc>http://www.begets62.beget.tech/editconsignees/:id</loc>
+          <lastmod>2023-12-26T14:08:36.906Z</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.7</priority>
+        </url>
+      
+        <url>
+          <loc>http://www.begets62.beget.tech/shippers</loc>
+          <lastmod>2023-12-26T14:08:36.906Z</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.7</priority>
+        </url>
+      
+        <url>
+          <loc>http://www.begets62.beget.tech/addconsignees</loc>
+          <lastmod>2023-12-26T14:08:36.906Z</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.7</priority>
+        </url>
+      
+        <url>
+          <loc>http://www.begets62.beget.tech/consignees</loc>
+          <lastmod>2023-12-26T14:08:36.906Z</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.7</priority>
+        </url>
+      
+        <url>
+          <loc>http://www.begets62.beget.tech/adddispatch</loc>
+          <lastmod>2023-12-26T14:08:36.906Z</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.7</priority>
+        </url>
+      
+        <url>
+          <loc>http://www.begets62.beget.tech/dispatch</loc>
+          <lastmod>2023-12-26T14:08:36.906Z</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.7</priority>
+        </url>
+      
+        <url>
+          <loc>http://www.begets62.beget.tech/message</loc>
+          <lastmod>2023-12-26T14:08:36.906Z</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.7</priority>
+        </url>
+      
+        <url>
+          <loc>http://www.begets62.beget.tech/chat</loc>
+          <lastmod>2023-12-26T14:08:36.906Z</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.7</priority>
+        </url>
+      
+        <url>
+          <loc>http://www.begets62.beget.tech/wallet</loc>
+          <lastmod>2023-12-26T14:08:36.906Z</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.7</priority>
+        </url>
+      
+        <url>
+          <loc>http://www.begets62.beget.tech/rates</loc>
+          <lastmod>2023-12-26T14:08:36.906Z</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.7</priority>
+        </url>
+      
+        <url>
+          <loc>http://www.begets62.beget.tech/way</loc>
+          <lastmod>2023-12-26T14:08:36.906Z</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.7</priority>
+        </url>
+      
+        <url>
+          <loc>http://www.begets62.beget.tech/admin-login</loc>
+          <lastmod>2023-12-26T14:08:36.906Z</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.7</priority>
+        </url>
+      
+        <url>
+          <loc>http://www.begets62.beget.tech/user-home</loc>
+          <lastmod>2023-12-26T14:08:36.906Z</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.7</priority>
+        </url>
+      
+        <url>
+          <loc>http://www.begets62.beget.tech/user-about/:id</loc>
+          <lastmod>2023-12-26T14:08:36.906Z</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.7</priority>
+        </url>
+      
+        <url>
+          <loc>http://www.begets62.beget.tech/user-profile</loc>
+          <lastmod>2023-12-26T14:08:36.906Z</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.7</priority>
+        </url>
+      
+        <url>
+          <loc>http://www.begets62.beget.tech/user-message</loc>
+          <lastmod>2023-12-26T14:08:36.906Z</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.7</priority>
+        </url>
+      
+        <url>
+          <loc>http://www.begets62.beget.tech/user-chat</loc>
+          <lastmod>2023-12-26T14:08:36.906Z</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.7</priority>
+        </url>
+      
+        <url>
+          <loc>http://www.begets62.beget.tech/add-service</loc>
+          <lastmod>2023-12-26T14:08:36.906Z</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.7</priority>
+        </url>
+      
+        <url>
+          <loc>http://www.begets62.beget.tech/add-blog</loc>
+          <lastmod>2023-12-26T14:08:36.906Z</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.7</priority>
+        </url>
+      
+    </urlset>
+  

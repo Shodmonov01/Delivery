@@ -1,0 +1,525 @@
+{
+  "nav": {
+    "nav1": "Services",
+    "nav2": "Calculatrice",
+    "nav3": "Témoignages",
+    "nav4": "Blog",
+    "auth1": "Connexion",
+    "auth2": "Inscription"
+  },
+  "hero1": {
+    "title": "Livraison rapide et fiable - Votre temps est précieux!",
+    "ul": {
+      "li": {
+        "title": "Rencontre en 60-120 minutes",
+        "text": "Dans toute l'Allemagne et dans toutes les grandes villes d'Europe - actuellement en environ 72 minutes."
+      },
+      "li2": {
+        "title": "Livraison dans les meilleurs délais",
+        "text": "Nous assurons des livraisons directes et livrons des marchandises dès aujourd'hui."
+      },
+      "li3": {
+        "title": "Tout est question de transport sans souci",
+        "text": "Nous assurons un transport sans interruption et nous nous occupons de tous les détails."
+      }
+    },
+    "btn": {
+      "left": "Calculez le prix maintenant",
+      "right": "et réservez directement",
+      "text": "Plus de 36 000 envois ont été livrés au cours des 12 derniers mois."
+    }
+  },
+  "section1": {
+    "title": "Pourquoi choisir UK2EU",
+    "card": {
+      "card1": {
+        "title": "Transport express efficace :",
+        "text": "Notre propre flotte de véhicules est adaptée au traitement des envois express, ce qui nous permet de garantir des délais de transport plus rapides et une livraison en temps voulu."
+      },
+      "card2": {
+        "title": "Solutions LTL fiables",
+        "text": "Pour les petits volumes de marchandises, nos sous-traitants fiables proposent des options LTL flexibles et économiques adaptées à vos besoins spécifiques en matière de transport."
+      },
+      "card3": {
+        "title": "Transparence et communication",
+        "text": "Nous croyons en une communication transparente en vous tenant informé tout au long du processus de transport. Notre service client est toujours prêt à répondre rapidement à vos demandes."
+      },
+      "card4": {
+        "title": "Amélioration continue",
+        "text": "Nous nous efforçons d'améliorer en permanence nos services, en adaptant régulièrement nos services au paysage changeant après le BREXIT et à vos besoins changeants."
+      },
+      "card5": {
+        "text": "Chez UK2EU, nous sommes fiers de simplifier votre processus de transport. Notre engagement envers la satisfaction de la clientèle nous pousse à offrir des solutions fiables, efficaces et économiques pour tous vos besoins en matière de livraison. Choisissez UK2EU comme partenaire de transport et laissez-nous gérer les complexités du transport après le BREXIT, pendant que vous vous concentrez sur le développement de votre entreprise. Pour toute question ou pour commencer à expédier vos envois, n'hésitez pas à contacter notre équipe spécialisée. Nous avons hâte de vous servir! L'équipe UK2EU"
+      }
+    }
+  },
+  "section2": {
+    "title": "Avec UK2EU, plus de 20 000 clients expédient des marchandises plus rapidement"
+  },
+  "section3": {
+    "title": "Sur nos véhicules de coursier",
+    "text": "Ci-dessous, vous trouverez un tableau présentant nos véhicules standards pour la livraison express avec un bref aperçu des informations les plus importantes à leur sujet.",
+    "card": {
+      "title": "Petit fourgon",
+      "len": "cm",
+      "weight": "maximum 400 kg",
+      "count": "jusqu'à 2 palettes",
+      "sum": "à partir de"
+    },
+    "card2": {
+      "title": "Fourgon moyen",
+      "len": "cm",
+      "weight": "maximum 800 kg",
+      "count": "jusqu'à 4 palettes",
+      "sum": "à partir de"
+    },
+    "card3": {
+      "title": "Grand fourgon",
+      "len": "cm",
+      "weight": "maximum 1200 kg",
+      "count": "jusqu'à 8 palettes",
+      "sum": "à partir de"
+    },
+    "card4": {
+      "title": "Hayon élévateur",
+      "len": "cm",
+      "weight": "maximum 800 kg",
+      "count": "jusqu'à 8 palettes",
+      "sum": "à partir de"
+    }
+  },
+  "section4": {
+    "li1": "Chargement arrière",
+    "li2": "Chargement latéral",
+    "li3": "Chargement par le haut",
+    "li4": "Informations supplémentaires",
+    "no": "Non",
+    "desc": "Chargement facile de colis lourds (chacun pesant jusqu'à 400 kg)"
+  },
+  "section5": {
+    "title": "Que souhaitez-vous expédier?",
+    "title1": "Petits déménagements",
+    "title2": "Livraison de colis",
+    "title3": "Meubles vintage",
+    "title4": "Documents",
+    "title5": "Marchandises sur palettes"
+  },
+  "hero2": {
+    "title": "Service de messagerie pour des livraisons directes",
+    "title2": "Simplification des transports après le BREXIT entre le Royaume-Uni et les pays de l'UE. Bienvenue chez UK2EU, votre partenaire logistique fiable pour des solutions de transport sans faille entre le Royaume-Uni et les pays de l'UE. Avec notre propre flotte de véhicules pour le transport express et un réseau de sous-traitants fiables pour le transport de marchandises (LTL), nous sommes là pour simplifier vos besoins en matière de transport après le BREXIT.",
+    "title3": "Étant donné que l'ère post-BREXIT pose de nouveaux défis en matière de logistique transfrontalière, notre objectif principal est de rendre les transports internationaux simples et sans problème pour nos précieux clients. Notre équipe d'experts est bien informée des complexités des règles et des procédures douanières après le BREXIT, garantissant une livraison fluide à chaque étape."
+  },
+  "section6": {
+    "title": "Questions fréquentes",
+    "ask1": "UK2EU est-elle une bourse de fret européenne?",
+    "ask2": "Quels pays sont couverts par la bourse de transport UK2EU?",
+    "ask3": "Qui peut s'abonner à la bourse de fret numérique UK2EU?",
+    "ask4": "Combien coûte un abonnement à la bourse de transport UK2EU?"
+  },
+  "section7": {
+    "hero": "Nos Avis",
+    "title": "Ce que disent nos clients",
+    "name": "Alexandra S.",
+    "date": "Il y a un mois",
+    "message": "Excellent service avec une excellente communication, des coursiers serviables et des prix très compétitifs."
+  },
+  "feedback": {
+    "title": "Contactez-nous!",
+    "name": "Votre nom",
+    "placeholder": "Entrez votre nom",
+    "num": "Numéro de téléphone",
+    "message": "Message",
+    "send": "Envoyer"
+  },
+  "footer": {
+    "col1": {
+      "title": "Société",
+      "li1": "À propos de nous",
+      "li2": "Services",
+      "li3": "Tarifs",
+      "li4": "Témoignages"
+    },
+    "col2": {
+      "title": "Aide",
+      "li1": "Politique de confidentialité",
+      "li2": "FAQ",
+      "li3": "Blog",
+      "li4": "Partenaires"
+    },
+    "col3": "Restez informé des développements en logistique",
+    "btn": "Contactez-nous"
+  },
+  "services": {
+    "title": "Nos Services",
+    "card1": "Petits Déménagements",
+    "card2": "Livraison de Colis",
+    "card3": "Mobilier Vintage",
+    "hover1": "Réserver maintenant",
+    "hover2": "En savoir plus",
+    "blog": {
+      "title": "Notre Blog",
+      "card1": {
+        "title": "Comment rendre vos offres de fret plus visibles",
+        "text": "Désormais, avec Teleroute, le processus est plus simple à mesure que vous le détaillez davantage...",
+        "btn": "Lire la suite"
+      }
+    }
+  },
+  "blog": {
+    "title": "Notre Blog",
+    "card": {
+      "title": "Cinq façons de réduire les coûts de transport",
+      "text": "Il existe de nombreux conseils que nous pouvons facilement suivre pour réduire les coûts de transport.",
+      "btn": "Lire plus"
+    }
+  },
+  "registration": {
+    "title": "Inscrivez-vous en tant que Client",
+    "ui1": "Nom d'utilisateur",
+    "pl1": "Entrez votre nom d'utilisateur",
+    "ui2": "Mot de passe",
+    "pl2": "Entrez votre mot de passe",
+    "ui3": "Courriel",
+    "pl3": "Entrez votre email",
+    "ask1": "J'accepte les Conditions de Service pour les utilisateurs",
+    "ask2": "J'accepte de recevoir des e-mails sur les offres UK2EU",
+    "text": "UK2EU traite les données pour remplir les contrats, les obligations légales et les consentements. Vous avez le droit d'accéder, de corriger, d'effacer, de limiter le traitement, de la portabilité des données, de retirer le consentement et de vous opposer. Politique de confidentialité",
+    "ask3": "Vous avez déjà un compte?",
+    "res": "Connexion",
+    "btn": "S'inscrire"
+  },
+  "login": {
+    "title": "Connexion",
+    "ask1": "Pas de compte?",
+    "res1": "S'inscrire",
+    "ui1": "Adresse e-mail",
+    "pl1": "Entrez votre adresse e-mail",
+    "pl2": "Entrez votre adresse e-mail",
+    "ask2": "Se souvenir de moi",
+    "btn": "Connexion",
+    "forgot": "J'ai oublié le mot de passe"
+  },
+  "password": {
+    "title": "Mot de passe oublié ?",
+    "ui1": "Adresse e-mail",
+    "pl1": "Entrez votre adresse e-mail",
+    "btn": "Définir le mot de passe",
+    "btn2": "Retour à la connexion"
+  },
+  "detail": {
+    "title": "Cinq façons de réduire les coûts de transport",
+    "text": "Le transport est un aspect essentiel pour de nombreuses entreprises ; en fait, les coûts de transport peuvent avoir un impact significatif sur la rentabilité d'une entreprise. Heureusement, il existe de nombreuses stratégies qui peuvent contribuer à réduire les coûts de transport, augmentant ainsi la rentabilité et la compétitivité de l'entreprise. Dans cet article, nous explorerons cinq moyens de réduire les dépenses de transport.",
+    "title2": "Mise en place de technologies avancées",
+    "text2": "La mise en place de technologies avancées peut également contribuer à réduire les coûts de transport. Par exemple, l'installation de dispositifs GPS peut aider les transporteurs à surveiller leurs véhicules et à identifier les inefficacités. De plus, les transporteurs peuvent exploiter des technologies de communication avancées pour améliorer la communication entre les conducteurs et les opérateurs logistiques, augmentant ainsi l'efficacité des opérations de transport. Avec UK2EU, cette technologie est pleinement exploitée, et avec UK2EU, vous avez l'opportunité de bénéficier pleinement des avantages de l'échange de fret. Il est facile de trouver des cargaisons et des partenaires et de conclure des accords en moins d'une minute directement depuis votre téléphone."
+  },
+  "cal": {
+    "form": {
+      "t1": "Catégorie de produit",
+      "t2": "Itinéraire et dates",
+      "t3": "Informations détaillées sur le produit",
+      "t4": "Informations brèves",
+      "p1": "Transport de meubles",
+      "hero": "Choisissez une catégorie pour recevoir les meilleures offres de transport et économiser jusqu'à 60 % !",
+      "btn": "Suivant"
+    },
+    "step2": {
+      "hero": "Choisissez un itinéraire",
+      "l1": "de",
+      "l2": "à",
+      "p": "Entrez l'adresse de livraison",
+      "search": "rechercher",
+      "d1": "Je veux spécifier une date",
+      "d2": "DATE DE RÉCEPTION",
+      "yes": "Oui",
+      "no": "Non",
+      "d3": "DATE DE LIVRAISON",
+      "p2": "Sélectionnez une date",
+      "btn1": "Accéder aux détails du produit",
+      "btn2": "Suivant"
+    },
+    "step3": {
+      "hero": "Décrivez vos produits pour obtenir des estimations précises",
+      "f1": "Qu'aimeriez-vous envoyer ?",
+      "p1": "par exemple, un tracteur JCB",
+      "f2": "Longueur",
+      "f3": "Largeur",
+      "f4": "Hauteur",
+      "f5": "Poids",
+      "p2": "CM",
+      "p3": "KG",
+      "ask": "Les dimensions sont-elles précises ?",
+      "yes": "Oui",
+      "no": "Non",
+      "del": "Supprimer",
+      "p4": "Ajouter un autre",
+      "p5": "J'énumère la livraison comme",
+      "p6": "Sélectionnez",
+      "btn1": "Accéder aux détails du produit",
+      "btn2": "Suivant"
+    },
+    "step4": {
+      "hero": "Indiquez la livraison gratuitement et sans engagement",
+      "btn1": "Réserver maintenant",
+      "p1": "Itinéraires et dates",
+      "p2": "Livraison",
+      "p3": "Modifier",
+      "p4": "Informations détaillées sur le produit",
+      "f1": "LxHxP",
+      "f2": "Poids",
+      "f3": "Qté",
+      "ask": "Les dimensions sont-elles précises",
+      "yes": "Oui",
+      "no": "Non",
+      "res": "POIDS TOTAL",
+      "res2": "J'ÉNUMÈRE LA LIVRAISON COMME",
+      "res3": "Particulier",
+      "res4": "Catégorie",
+      "res5": "Livraison de documents",
+      "res6": "TITRE DE L'ANNONCE",
+      "res7": "Documents de bureau x6"
+    }
+  },
+  "user": {
+    "nav1": "Réserver maintenant",
+    "nav2": "Mes expéditions",
+    "nav3": "Calculatrice",
+    "nav4": "Mes expéditions",
+    "nav5": "Messages",
+    "title": "Expéditions",
+    "title2": "Historique",
+    "title3": "Plage de dates",
+    "title4": "En cours",
+    "title5": "Détails du chargement",
+    "title6": "Créer une nouvelle demande",
+    "title7": "Statut",
+    "btn1": "Effacer",
+    "btn2": "Afficher"
+  },
+  "calsection": {
+    "title": "Calculer la livraison",
+    "cl1": "De",
+    "cl2": "À",
+    "cl3": "Dimensions",
+    "cl4": "Calculer",
+    "cl5": "Commander le véhicule entier",
+    "cl6": "Fret groupé",
+    "cl7": "Confirmer",
+    "a1": "Longueur",
+    "a2": "Largeur",
+    "a3": "Hauteur",
+    "a4": "Poids",
+    "sm": "cm",
+    "kg": "kg",
+    "hero": "Choisissez le type de fret",
+    "btn": "Aller au calculateur",
+    "w1": "Frais de service",
+    "w2": "Prix par km",
+    "w3": "TOTAL :",
+    "w4": "Mot de passe oublié ?",
+    "res": "Réinitialiser le mot de passe",
+    "res2": "Entrez un nouveau mot de passe :"
+  },
+  "partners": {
+    "title": "Partenaires",
+    "stitle": "Nos partenaires auront les opportunités suivantes",
+    "ul": {
+      "li1": "de vendre l'ensemble des services UK2EU en Russie dans le territoire assigné",
+      "li2": "de collecter, livrer, recevoir et distribuer des colis et des marchandises aux expéditeurs et destinataires dans le territoire assigné",
+      "li3": "de suivre une formation dans l'entreprise sur la promotion des services, les ventes et l'organisation des activités de production",
+      "li4": "d'utiliser le logo UK2EU et d'autres éléments de l'identité visuelle de UK2EU en Russie sur les véhicules, lors de la décoration des bureaux et sur les uniformes du personnel",
+      "li5": "d'utiliser des produits publicitaires et informatifs d'entreprise pour promouvoir les services UK2EU en Russie."
+    },
+    "text1": "Saisissez votre chance de faire partie d'une entreprise en plein essor !",
+    "text2": "Nous serons heureux de vous fournir des informations plus détaillées sur les conditions de coopération et un ensemble de documents pour la conclusion du contrat - veuillez nous contacter à l'adresse ssuport@uk2eu.com"
+  },
+  "ref": {
+    "title": "Référence",
+    "text1": "Faciliter le transport post-BREXIT entre le Royaume-Uni et les pays de l'UE",
+    "text": "Bienvenue chez UK2EU, votre transitaire fiable pour des solutions de transport sans faille entre le Royaume-Uni et les pays de l'UE. Avec notre propre flotte de véhicules conçue pour le transport express et un réseau de sous-traitants fiables pour le transport de marchandises en LTL, nous sommes là pour simplifier vos besoins en matière de transport après le BREXIT.",
+    "text2": "Comme l'ère post-BREXIT pose de nouveaux défis en matière de logistique transfrontalière, notre principal objectif est de rendre le transport international simple et sans tracas pour nos clients appréciés. Notre équipe d'experts maîtrise bien les subtilités des règles post-BREXIT et des procédures douanières, garantissant une livraison sans faille à chaque étape.",
+    "ask": "Il est important de se rappeler que le service de messagerie doit respecter les lois et règlements concernant le transport de certains biens. Par conséquent, l'entreprise ne doit pas transporter les catégories de biens suivantes :",
+    "res1": "Biens interdits par la loi, tels que les narcotiques, les armes, les explosifs, etc.",
+    "res2": "Biens dangereux et périssables nécessitant des conditions spéciales de stockage et de transport, tels que les médicaments, les produits chimiques, etc.",
+    "res3": "Biens non dédouanés, tels que les produits contrefaits ou ceux portant atteinte aux droits de propriété intellectuelle.",
+    "res4": "Animaux et oiseaux, sauf dans les cas où l'entreprise dispose de licences spéciales et de permis pour le transport d'animaux.",
+    "res5": "Documents personnels et objets de valeur, tels que les passeports, l'argent, les bijoux, etc., sans accord préalable avec le client.",
+    "fin": "Le respect de ces règles et interdictions aidera l'entreprise à éviter les problèmes juridiques, à protéger ses employés et ses clients des conséquences négatives, et à garantir un service de qualité et une livraison sûre des marchandises."
+  },
+  "pol": {
+    "foot": "© Tous droits réservés",
+    "title": "Politique et Confidentialité",
+    "p1": "1. Dispositions Générales. Cette politique de traitement des données personnelles est établie conformément aux exigences de la Loi fédérale du 27 juillet 2006, n°152-FZ 'Sur les données personnelles' (ci-après dénommée la Loi sur les données personnelles) et définit la procédure de traitement des données personnelles et les mesures visant à assurer la sécurité des données personnelles prises par la LLC 'Livraison' (ci-après dénommée l'Opérateur).",
+    "p2": "1.1. Le but le plus important et la condition de l'activité de l'Opérateur est de garantir les droits et libertés des individus lors du traitement de leurs données personnelles, y compris la protection des droits à la vie privée, aux secrets personnels et familiaux.",
+    "p3": "1.2. Cette politique de l'Opérateur concernant le traitement des données personnelles (ci-après la 'Politique') s'applique à toutes les informations que l'Opérateur peut obtenir sur les visiteurs du Site.",
+    "p4": "2. Concepts de Base Utilisés dans la Politique",
+    "p5": "2.1. Traitement automatisé des données personnelles - traitement des données personnelles à l'aide d'outils informatiques.",
+    "p6": "2.2. Blocage des données personnelles - suspension temporaire du traitement des données personnelles (sauf dans les cas où le traitement est nécessaire pour clarifier les données personnelles).",
+    "p7": "2.3. Le Site est une collection de documents graphiques et informatifs, ainsi que des logiciels pour ordinateurs et des bases de données permettant d'y accéder sur Internet à une adresse réseau.",
+    "p8": "2.4. Système de traitement des données personnelles - un ensemble de données personnelles contenues dans des bases de données, ainsi que des technologies de l'information et des moyens techniques les traitant.",
+    "p9": "2.5. Dépersonnalisation des données personnelles - actions ayant pour conséquence l'impossibilité de déterminer l'appartenance de données personnelles à un Utilisateur spécifique ou à un autre sujet de données personnelles sans l'utilisation d'informations supplémentaires.",
+    "p10": "2.6. Traitement des données personnelles - toute action (opération) ou ensemble d'actions (opérations) effectuées à l'aide d'outils automatisés ou sans utiliser de tels outils avec des données personnelles, comprenant la collecte, l'enregistrement, la systématisation, l'accumulation, le stockage, la clarification (mise à jour, modification), l'extraction, l'utilisation, le transfert (distribution, fourniture, accès), la dépersonnalisation, le blocage, la suppression, la destruction de données personnelles.",
+    "p11": "2.7. Opérateur - un organe d'État, un organe municipal, une personne morale ou physique, agissant indépendamment ou conjointement avec d'autres personnes, organisant et (ou) réalisant le traitement des données personnelles, ainsi que déterminant les objectifs du traitement des données personnelles, la composition des données personnelles soumises au traitement, les actions (opérations) effectuées avec les données personnelles.",
+    "p12": "2.8. Données personnelles - toute information se rapportant directement ou indirectement à un Utilisateur identifié ou identifiable du site Web.",
+    "p13": "2.9. Données personnelles autorisées à être distribuées par le sujet des données personnelles - des données personnelles auxquelles l'accès sans restrictions est accordé par le sujet des données personnelles en donnant son consentement au traitement des données personnelles autorisées à être distribuées par le sujet des données personnelles de la manière établie par la législation sur les données personnelles (ci-après - données personnelles autorisées à être distribuées).",
+    "p14": "2.10. Utilisateur - tout visiteur du site Web.",
+    "p15": "2.11. Fourniture de données personnelles - actions visant à divulguer des données personnelles à une personne ou à un groupe de personnes spécifiques.",
+    "p16": "2.12. Distribution de données personnelles - toutes les actions visant à divulguer des données personnelles à un cercle indéfini de personnes (transfert de données personnelles) ou à rendre les données personnelles accessibles au grand public, y compris la divulgation de données personnelles dans les médias, leur placement dans les réseaux d'information et de télécommunication ou l'accès aux données personnelles de toute autre manière.",
+    "p17": "2.13. Transfert transfrontalier de données personnelles - transfert de données personnelles sur le territoire d'un État étranger à l'autorité d'un État étranger, d'une personne physique ou morale étrangère.",
+    "p18": "2.14. Destruction de données personnelles - toutes les actions ayant pour conséquence la destruction de données personnelles de manière irréversible avec l'impossibilité de restaurer ultérieurement le contenu des données personnelles dans le système d'information sur les données personnelles et (ou) les supports physiques de données personnelles sont détruits.",
+    "p19": "3. Principaux Droits et Obligations de l'Opérateur",
+    "p20": "3.1. L'Opérateur a les droits suivants:",
+    "p21": "- recevoir du sujet des données personnelles des informations et/ou des documents exacts contenant des données personnelles;",
+    "p22": "- en cas de retrait par le sujet des données personnelles du consentement au traitement des données personnelles, l'Opérateur a le droit de continuer à traiter les données personnelles sans le consentement du sujet des données personnelles s'il existe des motifs spécifiés dans la Loi sur les données personnelles;",
+    "p23": "- déterminer indépendamment la composition et la liste des mesures nécessaires et suffisantes pour assurer l'accomplissement des obligations prévues par la Loi sur les données personnelles et les actes législatifs réglementaires adoptés conformément à celle-ci, sauf dans les cas prévus par la Loi sur les données personnelles ou d'autres lois fédérales.",
+    "p24": "3.2. L'Opérateur est tenu de:",
+    "p25": "- fournir à la personne concernée les informations sur le traitement de ses données personnelles sur demande ;",
+    "p26": "- organiser le traitement des données personnelles conformément à la législation en vigueur de la Fédération de Russie ;",
+    "p27": "- répondre aux demandes et aux requêtes des personnes concernées et de leurs représentants légaux conformément aux exigences de la loi sur les données personnelles ;",
+    "p28": "- fournir à l'autorité chargée de surveiller le respect des droits des personnes concernées les informations nécessaires sur demande de ladite autorité dans un délai de 30 jours à compter de la réception de ladite demande ;",
+    "p29": "- publier ou assurer un accès non limité à la présente Politique de traitement des données personnelles ;",
+    "p30": "- prendre des mesures légales, organisationnelles et techniques pour protéger les données personnelles contre tout accès non autorisé ou accidentel, leur destruction, modification, blocage, copie, divulgation, distribution de données personnelles, ainsi que d'autres actions illicites concernant les données personnelles ;",
+    "p31": "- cesser le transfert (distribution, fourniture, accès) de données personnelles, cesser le traitement et détruire les données personnelles conformément aux modalités et cas prévus par la loi sur les données personnelles ;",
+    "p32": "- remplir d'autres obligations prévues par la loi sur les données personnelles.",
+    "p33": "4. Principaux droits et obligations des sujets de données personnelles",
+    "p34": "4.1. Les sujets de données personnelles ont les droits suivants :",
+    "p35": "- recevoir des informations sur le traitement de leurs données personnelles, sauf dans les cas prévus par les lois fédérales. Les informations sont fournies au sujet de données personnelles par l'opérateur sous une forme accessible et ne doivent pas contenir de données personnelles concernant d'autres sujets de données personnelles, sauf dans les cas où il existe des motifs légaux de divulgation de telles données personnelles. La liste des informations et la procédure pour les obtenir sont établies par la loi sur les données personnelles ;",
+    "p36": "- exiger de l'opérateur des éclaircissements, le blocage ou la destruction de leurs données personnelles si les données personnelles sont incomplètes, périmées, inexactes, obtenues illégalement ou ne sont pas nécessaires à l'objectif déclaré du traitement, ainsi que prendre des mesures prévues par la loi pour protéger leurs droits ;",
+    "p37": "- donner leur consentement préalable au traitement de leurs données personnelles à des fins de promotion de biens, de travaux ou de services sur le marché ;",
+    "p38": "- retirer leur consentement au traitement de leurs données personnelles ;",
+    "p39": "- faire appel à l'organe autorisé chargé de la protection des droits des sujets de données personnelles ou introduire une action en justice avec une demande concernant les actions ou l'inaction non autorisées de l'opérateur dans le traitement de leurs données personnelles ;",
+    "p40": "- exercer d'autres droits prévus par la législation de la Fédération de Russie.",
+    "p41": "4.2. Les sujets de données personnelles sont tenus de :",
+    "p42": "- fournir à l'opérateur des informations exactes les concernant ;",
+    "p43": "- informer l'opérateur de l'éclaircissement (mise à jour, modification) de leurs données personnelles.",
+    "p44": "4.3. Les personnes ayant fourni à l'opérateur de fausses informations les concernant ou des informations sur un autre sujet de données personnelles sans leur consentement sont responsables conformément à la législation de la Fédération de Russie.",
+    "p45": "5. L'opérateur a le droit de traiter les données personnelles de l'utilisateur suivantes :",
+    "p46": "5.1. Nom, prénom, patronyme.",
+    "p47": "5.2. Numéros de téléphone.",
+    "p48": "5.3. De plus, le site collecte et traite des données anonymisées sur les visiteurs (y compris les cookies) à l'aide de services de statistiques Internet (Yandex Metrica, Google Analytics, etc.).",
+    "p49": "5.4. Les données susmentionnées sont regroupées dans le concept général de données personnelles.",
+    "p50": "5.5. L'opérateur ne traite pas de catégories spéciales de données personnelles liées à la race, à la nationalité, aux opinions politiques, aux croyances religieuses ou philosophiques, à la vie intime.",
+    "p51": "5.6. Le traitement des données personnelles autorisé pour la distribution, parmi les catégories spéciales de données personnelles spécifiées dans la partie 1 de l'article 10 de la loi sur les données personnelles, est autorisé sous réserve des interdictions et conditions prévues par l'article 10.1 de la loi sur les données personnelles.",
+    "p52": "5.7. Le consentement de l'utilisateur au traitement des données personnelles autorisé pour la distribution est fourni séparément des autres consentements au traitement de leurs données personnelles. Dans le même temps, les exigences prévues, en particulier, par l'article 10.1 de la loi sur les données personnelles sont respectées. Les exigences relatives au contenu de ce consentement sont fixées par l'organe autorisé chargé de la protection des droits des sujets de données personnelles.",
+    "p53": "5.7.1. Le consentement au traitement des données personnelles autorisé pour la distribution est fourni par l'utilisateur directement à l'opérateur.",
+    "p54": "5.7.2. L'opérateur est tenu, dans un délai de trois jours ouvrables à compter de la date de réception du consentement de l'utilisateur, de publier des informations sur les conditions de traitement, la présence d'interdictions et de conditions de traitement des données personnelles autorisées pour la distribution par un nombre illimité de personnes."
+  },
+  "sto": {
+    "st1": "Sélectionnez les paramètres pour la réservation !",
+    "btn": "Réserver maintenant",
+    "st2": "Choisissez le Service",
+    "st3": "Comment ça marche ?",
+    "blog": {
+      "bir": "Évaluation et Emballage",
+      "d1": "À cette étape, des transporteurs professionnels inspectent les meubles vintage, évaluent leur état et déterminent les mesures nécessaires pour leur transport. Ensuite, les meubles sont soigneusement emballés avec leurs caractéristiques et exigences spécifiques pour éviter d'éventuels dommages pendant le transit.",
+      "ikki": "Transport",
+      "d2": "À cette étape, les meubles vintage sont chargés sur des véhicules spécialisés assurant sécurité et protection pendant le transport. L'équipe de transporteur transporte les meubles vers la destination spécifiée, suivant un itinéraire désigné et respectant toutes les réglementations et normes de sécurité.",
+      "uch": "Déchargement et Placement",
+      "d3": "À l'arrivée à la destination, les meubles sont déchargés et placés soigneusement à l'endroit désigné. Notre équipe de transporteurs peut aider à l'agencement des meubles ou effectuer d'autres tâches supplémentaires sur demande. Il est important que lors du déchargement et du placement, les meubles soient manipulés avec soin pour éviter d'éventuels dommages lors de la manipulation."
+    },
+    "st4": "Articles Récemment Livrés",
+    "st5": "Meilleurs Prix pour Votre Livraison",
+    "st6": "Seulement des Fournisseurs de Services de Transport Vérifiés",
+    "st7": "97% de Clients Satisfaits depuis 2010",
+    "st8": "Nous Soutenons le Transport Écologique",
+    "st9": "Catégorie de Produit",
+    "st10": "Itinéraire et Dates",
+    "st11": "Informations Détaillées sur le Produit",
+    "st12": "Aperçu Rapide",
+    "st13": "Sélectionner une Date",
+    "st14": "De",
+    "st15": "À",
+    "st16": "Entrez l'Adresse de Livraison",
+    "st17": "Informations Détaillées sur le Produit",
+    "st18": "Que Voulez-vous Expédier?",
+    "st19": "Longueur",
+    "st20": "par exemple, Tracteur JCB",
+    "st21": "Itinéraires et Dates",
+    "st22": "Modifier",
+    "st23": "INFORMATIONS DÉTAILLÉES SUR LE PRODUIT",
+    "st24": "LxLxH",
+    "st25": "Poids",
+    "st26": "Qté",
+    "st27": "Les dimensions sont-elles exactes?",
+    "st28": "POIDS TOTAL",
+    "st29": "JE LISTE LA LIVRAISON COMME",
+    "st30": "Pas d'Information",
+    "st31": "Catégorie",
+    "st32": "TITRE DE L'ANNONCE",
+    "st33": "C'était réservé",
+    "st34": "Économisez jusqu'à 60%",
+    "st35": "Livraison",
+    "st36": "Notre Blog",
+    "st37": "Lire plus",
+    "st38": "Pas encore inscrit sur notre site ? Faites-le maintenant !",
+    "st39": "S'inscrire"
+  },
+  "work": {
+    "bir": {
+      "title": "Chargement des palettes",
+      "text": "À ce stade, les marchandises disposées sur des palettes sont chargées sur le véhicule de transport. Le chargement peut être effectué à l'aide d'un chariot élévateur ou d'un autre équipement spécialisé. Les marchandises doivent être correctement disposées et sécurisées sur les palettes pour prévenir les dommages et garantir la sécurité pendant le transport."
+    },
+    "ikki": {
+      "title": "Transport des palettes",
+      "text": "Après le chargement, les marchandises sont transportées sur la distance requise en utilisant le véhicule de transport sélectionné. Il est important d'assurer une protection suffisante des marchandises pendant le transport contre les vibrations, les impacts et d'autres influences externes."
+    },
+    "uch": {
+      "title": "Déchargement",
+      "text": "À l'arrivée à destination, les marchandises sont déchargées du véhicule de transport à l'aide de l'équipement approprié. Le déchargement peut être effectué manuellement ou avec un chariot élévateur. Les marchandises sont ensuite vérifiées pour leur intégrité et le placement correct sur les palettes. Si nécessaire, elles peuvent être déplacées sur d'autres palettes ou emballées pour le stockage ou le transport ultérieur."
+    },
+    "turt": {
+      "title": "Commande et planification",
+      "text": "Le client passe une commande et fournit des informations sur les articles de mobilier et les points de départ et de livraison."
+    },
+    "besh": {
+      "title": "Collecte et transport",
+      "text": "Le coursier arrive pour récupérer le mobilier et le charge dans le transport de fret. Le mobilier est livré à la destination selon l'itinéraire sélectionné."
+    },
+    "olti": {
+      "title": "Déchargement et installation",
+      "text": "Le coursier aide au déchargement du mobilier et le transporte à l'intérieur des locaux. Si nécessaire, le coursier peut également aider à l'installation ou au montage du mobilier."
+    },
+    "yetti": {
+      "title": "Passation de la commande",
+      "text": "le client passe une commande et spécifie l'adresse de livraison. Le coursier arrive à l'endroit indiqué et récupère le colis. Dans ce processus, le coursier peut demander une confirmation de l'identité du client ou une autre forme d'identification."
+    },
+    "sakkiz": {
+      "title": "Livraison et suivi",
+      "text": "Pendant le transport, le coursier est responsable de garantir la sécurité et l'intégrité du colis en suivant l'itinéraire spécifié. Un aspect important est le suivi de l'état du colis à travers des systèmes de suivi spéciaux, qui permettent au client d'être informé de sa localisation et de l'heure de livraison prévue."
+    },
+    "tuqqiz": {
+      "title": "Livraison et confirmation",
+      "text": "à l'arrivée à destination, le coursier effectue la livraison. Le client reçoit le colis et doit le vérifier soigneusement pour tout dommage et s'assurer qu'il correspond à la commande. Le client confirme la réception du colis en signant le document de livraison ou en notant tout problème potentiel ou dommage."
+    },
+    "un": {
+      "title": "Réception et préparation des documents",
+      "text": "le client remet les documents nécessaires au service de messagerie pour la livraison. Le coursier vérifie la présence de tous les documents nécessaires et les prépare pour l'envoi, y compris l'emballage et le remplissage des formulaires spéciaux de livraison."
+    },
+    "unbir": {
+      "title": "Transport et suivi",
+      "text": "le coursier livre les documents au destinataire conformément à l'adresse de livraison spécifiée. Pendant le transport, le coursier assure la sécurité des documents et les sécurise. Le client peut suivre l'état de la livraison grâce à un système de suivi et être informé de la localisation des documents en temps réel."
+    },
+    "unikki": {
+      "title": "Remise et confirmation de la livraison",
+      "text": "à l'arrivée à destination, le coursier remet les documents au destinataire. Le destinataire vérifie soigneusement les documents reçus et, s'ils correspondent aux attentes, confirme la livraison, par exemple, avec sa signature ou laisse un commentaire s'il y a des problèmes ou des dommages. Si le destinataire est absent, les documents peuvent être remis à une personne de confiance ou laissés dans un endroit spécifié, avec une confirmation fournie sous forme de notification ou de signature de livraison."
+    }
+  },
+  "stepone": {
+    "bir": "Palettes",
+    "ikki": "Colis",
+    "uch": "Documents",
+    "turt": "Petits déménagements"
+  },
+  "calc3": {
+    "title": "voiture avec rampe+",
+    "a1": "nom de la rue",
+    "a2": "",
+    "a3": "numéro de maison",
+    "a4": "",
+    "a5": "Merci pour votre demande",
+    "a6": "Notre manager vous contactera bientôt"
+  },
+  "my_ads": "Mes annonces",
+  "user_profile": "Profil \nutilisateur",
+  "account_details": "Détails du compte \nenregistrements",
+  "exit": "Sortie"
+}

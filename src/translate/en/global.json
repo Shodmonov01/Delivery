@@ -1,0 +1,517 @@
+{
+  "nav": {
+    "nav1": "Services",
+    "nav2": "Calculator",
+    "nav3": "Reviews",
+    "nav4": "Blog",
+    "auth1": "Login",
+    "auth2": "Registration"
+  },
+  "hero1": {
+    "title": "Fast and Reliable Delivery - Your Time Matters!",
+    "ul": {
+      "li": {
+        "title": "Meeting in 60-120 minutes",
+        "text": "Throughout Germany and in all major European cities - currently approximately within 72 minutes."
+      },
+      "li2": {
+        "title": "Delivery in the Best Time",
+        "text": "We provide direct transportation and deliver goods today."
+      },
+      "li3": {
+        "title": "All Around Carefree Transport",
+        "text": "We ensure seamless transportation and take care of all the details."
+      }
+    },
+    "btn": {
+      "left": "Calculate the price now",
+      "right": "and book directly",
+      "text": "Over the last 12 months, we have delivered more than 36,000 shipments."
+    }
+  },
+  "section1": {
+    "title": "Why Choose UK2EU",
+    "card": {
+      "card1": {
+        "title": "Efficient Express Transport:",
+        "text": "Our own fleet of vehicles is adapted for processing express shipments, allowing us to provide faster transit times and timely delivery."
+      },
+      "card2": {
+        "title": "Reliable LTL Solutions",
+        "text": "For small cargo volumes, our reliable subcontractors offer flexible and economical LTL options tailored to your specific shipping needs."
+      },
+      "card3": {
+        "title": "Transparency and Communication",
+        "text": "We believe in transparent communication, keeping you informed throughout the transportation process. Our customer support team is always ready to respond to your inquiries promptly."
+      },
+      "card4": {
+        "title": "Continuous Improvement",
+        "text": "We strive for continuous improvement, regularly enhancing our services to adapt to the changing landscape post-BREXIT and meet your evolving requirements."
+      },
+      "card5": {
+        "text": "At UK2EU, we take pride in simplifying your transportation process. Our focus on customer satisfaction drives us to provide reliable, efficient, and cost-effective solutions for all your delivery needs. Choose UK2EU as your transportation partner and let us navigate the complexities of post-BREXIT shipping while you focus on growing your business. For any inquiries or to start working with your shipments, please don't hesitate to reach out to our specialized team. We look forward to serving you! The UK2EU Team"
+      }
+    }
+  },
+  "section2": {
+    "title": "With UK2EU, Over 20,000 Customers Ship Goods Faster"
+  },
+  "section3": {
+    "title": "About Our Courier Vehicles",
+    "text": "Below is a table featuring our standard vehicles for express delivery with a brief overview of the most important information about them.",
+    "card": {
+      "title": "Small Van",
+      "len": "cm",
+      "weight": "maximum 400 kg",
+      "count": "up to 2 pallets",
+      "sum": "from"
+    },
+    "card2": {
+      "title": "Medium Van",
+      "len": "cm",
+      "weight": "maximum 800 kg",
+      "count": "up to 4 pallets",
+      "sum": "from"
+    },
+    "card3": {
+      "title": "Large Van",
+      "len": "cm",
+      "weight": "maximum 1200 kg",
+      "count": "up to 8 pallets",
+      "sum": "from"
+    },
+    "card4": {
+      "title": "Liftgate",
+      "len": "cm",
+      "weight": "maximum 800 kg",
+      "count": "up to 8 pallets",
+      "sum": "from"
+    }
+  },
+  "section4": {
+    "li1": "Rear Loading",
+    "li2": "Side Loading",
+    "li3": "Top Loading",
+    "li4": "Additional Information",
+    "no": "No",
+    "desc": "Easy loading of heavy parcels (each weighing no more than 400 kg)"
+  },
+  "section5": {
+    "title": "What Do You Want to Send?",
+    "title1": "Small Moves",
+    "title2": "Package Delivery",
+    "title3": "Vintage Furniture",
+    "title4": "Documents",
+    "title5": "Palletized Goods"
+  },
+  "hero2": {
+    "title": "Direct Transportation Courier Service",
+    "title2": "Simplifying Post-BREXIT Shipping Between the UK and EU Countries. Welcome to UK2EU, your reliable logistics partner for seamless transportation solutions between the UK and EU countries. With our own fleet designed for express transport and a network of dependable subcontractors for freight transportation (LTL), we are here to simplify your transportation needs after BREXIT.",
+    "title3": "As the post-BREXIT era poses new challenges in cross-border logistics, our primary goal is to make international shipping straightforward and hassle-free for our valued customers. Our team of experts is well-versed in the intricacies of post-BREXIT rules and customs procedures, ensuring smooth delivery at every stage."
+  },
+  "section6": {
+    "title": "Frequently Asked Questions",
+    "ask1": "Is UK2EU a European freight exchange?",
+    "ask2": "Which countries does the UK2EU transport exchange cover?",
+    "ask3": "Who can subscribe to the UK2EU digital freight exchange?",
+    "ask4": "How much does a subscription to the UK2EU transport exchange cost?"
+  },
+  "section7": {
+    "hero": "Our Reviews",
+    "title": "What Our Customers Say",
+    "name": "Alexandra S.",
+    "date": "A month ago",
+    "message": "Excellent service with great communication, helpful couriers, and very competitive prices."
+  },
+  "feedback": {
+    "title": "Contact Us!",
+    "name": "Your Name",
+    "placeholder": "Enter Name",
+    "num": "Phone Number",
+    "message": "Message",
+    "send": "Send"
+  },
+  "footer": {
+    "col1": {
+      "title": "Company",
+      "li1": "About Us",
+      "li2": "Services",
+      "li3": "Prices",
+      "li4": "Reviews"
+    },
+    "col2": {
+      "title": "Help",
+      "li1": "Privacy Policy",
+      "li2": "FAQ",
+      "li3": "Blog",
+      "li4": "Partners"
+    },
+    "col3": "Stay updated on logistics developments",
+    "btn": "Contact Us"
+  },
+  "services": {
+    "title": "Our Services",
+    "card1": "Small Moves",
+    "card2": "Package Delivery",
+    "card3": "Vintage Furniture",
+    "hover1": "Book Now",
+    "hover2": "Learn More",
+    "blog": {
+      "title": "Our Blog",
+      "card1": {
+        "title": "How to make your freight offers more visible",
+        "text": "Now, with Teleroute, the process is simpler as the more detailed you make…",
+        "btn": "Read More"
+      }
+    }
+  },
+  "registration": {
+    "title": "Register as a Client",
+    "ui1": "Username",
+    "pl1": "Enter your username",
+    "ui2": "Password",
+    "pl2": "Enter your password",
+    "ui3": "Email",
+    "pl3": "Enter your email",
+    "ask1": "I accept the Terms of Service for users",
+    "ask2": "I agree to receive emails about UK2EU offers",
+    "text": "UK2EU processes data to fulfill contracts, legal obligations, and consents. You have the right to access, correct, erase, restrict processing, data portability, withdraw consent, and object. Privacy Policy",
+    "ask3": "Already have an account?",
+    "res": "Log In",
+    "btn": "Register"
+  },
+  "login": {
+    "title": "Log In",
+    "ask1": "Don't have an account?",
+    "res1": "Register",
+    "ui1": "Email",
+    "pl1": "Enter your email address",
+    "pl2": "Enter your email address",
+    "ask2": "Remember me",
+    "btn": "Log In",
+    "forgot": "Forgot Password"
+  },
+  "password": {
+    "title": "Forgot Password?",
+    "ui1": "Email",
+    "pl1": "Enter your email address",
+    "btn": "Set Password",
+    "btn2": "Back to Login"
+  },
+  "detail": {
+    "title": "Five Ways to Reduce Transportation Costs",
+    "text": "Transportation is a critical aspect for many businesses; in fact, transportation costs can significantly impact a company's profitability. Fortunately, there are numerous strategies that can help reduce transportation costs, thereby increasing the company's profitability and competitiveness. In this article, we will explore five ways to lower transportation expenses.",
+    "title2": "Implementing Advanced Technologies",
+    "text2": "Implementing advanced technologies can also help lower transportation costs. Installing GPS devices, for example, can assist carriers in monitoring their vehicles and identifying inefficiencies. Additionally, carriers can leverage advanced communication technologies to enhance communication between drivers and logistics operators, thus improving the efficiency of transportation operations. With UK2EU, this technology is fully utilized, and with UK2EU, you have the opportunity to fully benefit from the advantages of freight exchange. It's easy to find loads and partners and make deals in less than a minute right from your phone."
+  },
+  "cal": {
+    "form": {
+      "t1": "Product Category",
+      "t2": "Route and Dates",
+      "t3": "Detailed Product Information",
+      "t4": "Brief Information",
+      "p1": "Furniture Transport",
+      "hero": "Choose a category to receive the best transport offers and save up to 60%!",
+      "btn": "Next"
+    },
+    "step2": {
+      "hero": "Choose a Route",
+      "l1": "from",
+      "l2": "to",
+      "p": "Enter the delivery address",
+      "search": "search",
+      "d1": "I want to specify a date",
+      "d2": "RECEIVING DATE",
+      "yes": "Yes",
+      "no": "No",
+      "d3": "DELIVERY DATE",
+      "p2": "Select a date",
+      "btn1": "Go to Product Details",
+      "btn2": "Next"
+    },
+    "step3": {
+      "hero": "Describe your products to get accurate estimates",
+      "f1": "What do you want to send?",
+      "p1": "e.g., JCB tractor",
+      "f2": "Length",
+      "f3": "Width",
+      "f4": "Height",
+      "f5": "Weight",
+      "p2": "CM",
+      "p3": "KG",
+      "ask": "Are the dimensions accurate?",
+      "yes": "Yes",
+      "no": "No",
+      "del": "Delete",
+      "p4": "Add Another",
+      "p5": "I list the delivery as",
+      "p6": "Select",
+      "btn1": "Go to Product Details",
+      "btn2": "Next"
+    },
+    "step4": {
+      "hero": "Specify delivery for free and with no obligations",
+      "btn1": "Book Now",
+      "p1": "Routes and Dates",
+      "p2": "Delivery",
+      "p3": "Edit",
+      "p4": "Detailed Product Information",
+      "f1": "LxWxH",
+      "f2": "Weight",
+      "f3": "Qty",
+      "ask": "Are the dimensions accurate",
+      "yes": "Yes",
+      "no": "No",
+      "res": "TOTAL WEIGHT",
+      "res2": "I LIST THE DELIVERY AS",
+      "res3": "Private Individual",
+      "res4": "Category",
+      "res5": "Document Delivery",
+      "res6": "AD TITLE",
+      "res7": "Office Documents x6"
+    }
+  },
+  "calsection": {
+    "title": "Calculate Delivery",
+    "cl1": "From",
+    "cl2": "To",
+    "cl3": "Dimensions",
+    "cl4": "Calculate",
+    "cl5": "Order Full Truck",
+    "cl6": "LTL Freight",
+    "cl7": "Confirm",
+    "a1": "Length",
+    "a2": "Width",
+    "a3": "Height",
+    "a4": "Weight",
+    "sm": "cm",
+    "kg": "kg",
+    "hero": "Choose Cargo Type",
+    "btn": "Go to Calculator",
+    "w1": "Service Fee",
+    "w2": "Price per km",
+    "w3": "TOTAL:",
+    "w4": "Forgot Password?",
+    "res": "Reset Password",
+    "res2": "Enter New Password:"
+  },
+  "user": {
+    "nav1": "Book Now",
+    "nav2": "My Shipments",
+    "nav3": "Calculator",
+    "nav4": "My Shipments",
+    "nav5": "Messages",
+    "title": "Shipments",
+    "title2": "History",
+    "title3": "Date Range",
+    "title4": "In Progress",
+    "title5": "Cargo Details",
+    "title6": "Create New Request",
+    "title7": "Status",
+    "btn1": "Clear",
+    "btn2": "Show"
+  },
+  "partners": {
+    "title": "Partners",
+    "stitle": "Our partners will receive the following opportunities",
+    "ul": {
+      "li1": "to sell the entire package of UK2EU services in Russia in the assigned territory",
+      "li2": "to collect, deliver, receive, and distribute parcels and goods to senders and recipients in the assigned territory",
+      "li3": "to undergo training in the company on service promotion, sales, and organizing production activities",
+      "li4": "to use the UK2EU logo and other elements of the UK2EU corporate identity in Russia on vehicles, when decorating offices, and on staff uniforms",
+      "li5": "to use corporate advertising and informational products to promote UK2EU services in Russia."
+    },
+    "text1": "Seize your chance to be part of a dynamically developing business!",
+    "text2": "We will be happy to provide you with more detailed information on cooperation terms and a package of documents for contract conclusion - please contact us at ssuport@uk2eu.com"
+  },
+  "ref": {
+    "title": "Reference",
+    "text1": "Facilitating post-BREXIT transportation between the UK and EU countries",
+    "text": "Welcome to UK2EU, your reliable freight forwarder for seamless transportation solutions between the UK and EU countries. With our own fleet of vehicles designed for express transportation and a network of reliable subcontractors for LTL freight transportation, we are here to simplify your transportation needs after BREXIT.",
+    "text2": "As the post-BREXIT era poses new challenges in cross-border logistics, our main goal is to make international transportation simple and hassle-free for our valued clients. Our team of experts is well-versed in the intricacies of post-BREXIT rules and customs procedures, ensuring seamless delivery at every stage.",
+    "ask": "It is important to remember that the courier service must comply with laws and regulations regarding the transportation of certain goods. Therefore, the company should not transport the following categories of goods:",
+    "res1": "Goods prohibited by law, such as narcotics, weapons, explosives, etc.",
+    "res2": "Hazardous and perishable goods that require special storage and transportation conditions, such as medicines, chemicals, etc.",
+    "res3": "Goods not cleared through customs, such as counterfeit goods or those infringing on intellectual property rights.",
+    "res4": "Animals and birds, except in cases where the company has special licenses and permits for animal transportation.",
+    "res5": "Personal documents and valuables, such as passports, money, jewelry, etc., without prior agreement with the client.",
+    "fin": "Compliance with these rules and prohibitions will help the company avoid legal issues, protect its employees and clients from negative consequences, and ensure quality service and safe cargo delivery."
+  },
+  "pol": {
+    "foot": "© All rights reserved",
+    "title": "Politics and Confidentiality",
+    "p1": "1. General Provisions. This policy for personal data processing is established in accordance with the requirements of the Federal Law of July 27, 2006, No. 152-FZ 'On Personal Data' (hereinafter referred to as the Personal Data Law) and defines the procedure for processing personal data and measures to ensure the security of personal data taken by LLC 'Delivery' (hereinafter referred to as the Operator).",
+    "p2": "1.1. The most important goal and condition of the Operator's activities is to ensure the rights and freedoms of individuals when processing their personal data, including the protection of the rights to privacy, personal, and family secrets.",
+    "p3": "1.2. This Operator's policy regarding the processing of personal data (hereinafter the 'Policy') applies to all information that the Operator may obtain about visitors to the Website.",
+    "p4": "2. Basic Concepts Used in the Policy",
+    "p5": "2.1. Automated processing of personal data - processing of personal data using information technology tools.",
+    "p6": "2.2. Blocking of personal data - temporary suspension of the processing of personal data (except in cases where processing is necessary to clarify personal data).",
+    "p7": "2.3. Website is a collection of graphic and informational documents, as well as software for computers and databases providing access to them on the Internet at a network address.",
+    "p8": "2.4. Personal data processing system - a set of personal data contained in databases, and information technologies and technical means processing them.",
+    "p9": "2.5. Depersonalization of personal data - actions resulting in the impossibility of determining the belonging of personal data to a specific User or other personal data subject without the use of additional information.",
+    "p10": "2.6. Processing of personal data - any action (operation) or set of actions (operations) performed using automation tools or without using such tools with personal data, including collection, recording, systematization, accumulation, storage, clarification (updating, modification), extraction, use, transfer (distribution, provision, access), depersonalization, blocking, deletion, destruction of personal data.",
+    "p11": "2.7. Operator - a state body, municipal body, legal or natural person, independently or jointly with other persons organizing and (or) carrying out the processing of personal data, as well as determining the purposes of processing personal data, the composition of personal data subject to processing, actions (operations) performed with personal data.",
+    "p12": "2.8. Personal data - any information relating to directly or indirectly identified or identifiable User of the website.",
+    "p13": "2.9. Personal data permitted for distribution by the personal data subject - personal data, access to which without restrictions is provided by the personal data subject by giving consent to the processing of personal data permitted for distribution by the personal data subject in the manner established by the legislation on personal data (hereinafter - personal data permitted for distribution).",
+    "p14": "2.10. User - any visitor to the website.",
+    "p15": "2.11. Provision of personal data - actions aimed at disclosing personal data to a specific person or group of persons.",
+    "p16": "2.12. Distribution of personal data - any actions aimed at disclosing personal data to an indefinite circle of persons (transfer of personal data) or making personal data available to the general public, including disclosing personal data in the media, placing in information and telecommunication networks, or accessing personal data in any other way.",
+    "p17": "2.13. Cross-border transfer of personal data - transfer of personal data to the territory of a foreign state to the authority of a foreign state, foreign individual or legal entity.",
+    "p18": "2.14. Destruction of personal data - any actions resulting in the destruction of personal data irreversibly with the impossibility of further restoring the content of personal data in the personal data information system and (or) physical media of personal data are destroyed.",
+    "p19": "3. Main Rights and Obligations of the Operator",
+    "p20": "3.1. The Operator has the following rights:",
+    "p21": "- to receive from the personal data subject accurate information and/or documents containing personal data;",
+    "p22": "- in case of withdrawal by the personal data subject of consent to the processing of personal data, the Operator has the right to continue processing personal data without the consent of the personal data subject if there are grounds specified in the Personal Data Law;",
+    "p23": "- independently determine the composition and list of measures necessary and sufficient to ensure the fulfillment of obligations provided for by the Personal Data Law and regulatory legal acts adopted in accordance with it, except in cases provided for by the Personal Data Law or other federal laws.",
+    "p24": "3.2. The Operator is obliged to:",
+    "p25": "- to provide the personal data subject with information upon their request regarding the processing of their personal data;",
+    "p26": "- to organize the processing of personal data in the manner established by the current legislation of the Russian Federation;",
+    "p27": "- to respond to requests and inquiries from personal data subjects and their legal representatives in accordance with the requirements of the Personal Data Law;",
+    "p28": "- to provide the necessary information to the authority responsible for overseeing compliance with the rights of personal data subjects upon request of such authority within 30 days from the date of receiving such request;",
+    "p29": "- to publish or ensure unrestricted access to this Policy for the processing of personal data;",
+    "p30": "- to take legal, organizational, and technical measures to protect personal data from unlawful or accidental access to them, destruction, alteration, blocking, copying, provision, distribution of personal data, as well as other unlawful actions regarding personal data;",
+    "p31": "- to cease the transfer (distribution, provision, access) of personal data, cease processing, and destroy personal data in the manner and cases provided by the Personal Data Law;",
+    "p32": "- to fulfill other obligations provided by the Personal Data Law.",
+    "p33": "4. Main Rights and Obligations of Personal Data Subjects",
+    "p34": "4.1. Personal data subjects have the following rights:",
+    "p35": "- to receive information about the processing of their personal data, except for cases established by federal laws. The information is provided to the personal data subject by the Operator in an accessible form and should not contain personal data related to other personal data subjects, except in cases when there are legal grounds for disclosing such personal data. The list of information and the procedure for obtaining it are established by the Personal Data Law;",
+    "p36": "- to demand from the Operator clarification, blocking, or destruction of their personal data if the personal data are incomplete, outdated, inaccurate, unlawfully obtained, or are not necessary for the stated purpose of processing, as well as to take measures provided by law to protect their rights;",
+    "p37": "- to give prior consent to the processing of their personal data for the purposes of promoting goods, works, or services on the market;",
+    "p38": "- to withdraw consent to the processing of their personal data;",
+    "p39": "- to appeal to the authorized body for the protection of the rights of personal data subjects or in court with a request regarding unauthorized actions or inaction of the Operator in the processing of their personal data;",
+    "p40": "- to exercise other rights provided by the legislation of the Russian Federation.",
+    "p41": "4.2. Personal data subjects are obliged to:",
+    "p42": "- provide the Operator with accurate information about themselves;",
+    "p43": "- notify the Operator of the clarification (updating, changing) of their personal data.",
+    "p44": "4.3. Persons who provided the Operator with false information about themselves or information about another personal data subject without their consent shall be liable in accordance with the legislation of the Russian Federation.",
+    "p45": "5. The Operator has the right to process the following User's personal data:",
+    "p46": "5.1. Surname, name, patronymic.",
+    "p47": "5.2. Phone numbers.",
+    "p48": "5.3. Additionally, the website collects and processes anonymized data about visitors (including cookies) using internet statistics services (Yandex Metrica, Google Analytics, etc.).",
+    "p49": "5.4. The above data is combined into the general concept of personal data.",
+    "p50": "5.5. The Operator does not process special categories of personal data related to race, nationality, political views, religious or philosophical beliefs, intimate life.",
+    "p51": "5.6. Processing of personal data permitted for distribution, among special categories of personal data specified in part 1 of Article 10 of the Personal Data Law, is allowed subject to the prohibitions and conditions provided for by Article 10.1 of the Personal Data Law.",
+    "p52": "5.7. The User's consent to the processing of personal data permitted for distribution is provided separately from other consents to the processing of their personal data. At the same time, the requirements provided, in particular, by Article 10.1 of the Personal Data Law are observed. The requirements for the content of such consent are established by the authorized body for the protection of the rights of personal data subjects.",
+    "p53": "5.7.1. The consent to the processing of personal data permitted for distribution is provided by the User directly to the Operator.",
+    "p54": "5.7.2. The Operator is obliged, within three working days from the date of receiving the User's consent, to publish information about the conditions for processing, the presence of prohibitions and conditions for processing personal data permitted for distribution by an unlimited number of persons."
+  },
+  "sto": {
+    "st1": "Select parameters for booking!",
+    "btn": "Book Now",
+    "st2": "Select Service",
+    "st3": "How It Works?",
+    "blog": {
+      "bir": "Assessment and Packaging",
+      "d1": "At this stage, professional carriers inspect vintage furniture, assess its condition, and determine necessary measures for its transportation. Then the furniture is carefully packaged with its specific features and requirements to prevent possible damages during transit.",
+      "ikki": "Transportation",
+      "d2": "At this stage, vintage furniture is loaded onto specialized vehicles ensuring safety and protection during transportation. The carrier team transports the furniture to the specified destination, following a designated route and adhering to all safety regulations and norms.",
+      "uch": "Unloading and Placement",
+      "d3": "Upon arrival at the destination, the furniture is unloaded and placed carefully at the designated spot. Our carrier team can assist with furniture arrangement or perform other additional tasks upon request. It's important that during unloading and placement, the furniture is handled carefully to prevent possible damages during handling."
+    },
+    "st4": "Recently Delivered Items",
+    "st5": "Best Prices for Your Delivery",
+    "st6": "Only Verified Transport Service Providers",
+    "st7": "97% Satisfied Customers since 2010",
+    "st8": "We Support Eco-Friendly Transportation",
+    "st9": "Product Category",
+    "st10": "Route and Dates",
+    "st11": "Detailed Product Information",
+    "st12": "Brief Overview",
+    "st13": "Select Date",
+    "st14": "From",
+    "st15": "To",
+    "st16": "Enter Delivery Address",
+    "st17": "Detailed Product Information",
+    "st18": "What Do You Want to Ship?",
+    "st19": "Length",
+    "st20": "e.g., JCB Tractor",
+    "st21": "Routes and Dates",
+    "st22": "Edit",
+    "st23": "DETAILED PRODUCT INFORMATION",
+    "st24": "LxWxH",
+    "st25": "Weight",
+    "st26": "Qty",
+    "st27": "Are the dimensions accurate?",
+    "st28": "TOTAL WEIGHT",
+    "st29": "I LIST DELIVERY AS",
+    "st30": "No Information",
+    "st31": "Category",
+    "st32": "AD TITLE",
+    "st33": "It was booked",
+    "st34": "Save up to 60%",
+    "st35": "Delivery",
+    "st36": "Our Blog",
+    "st37": "Read More",
+    "st38": "Not registered on our site yet? Do it now!",
+    "st39": "Register"
+  },
+  "work": {
+    "bir": {
+      "title": "Pallet Loading",
+      "text": "In this stage, goods arranged on pallets are loaded onto the transportation vehicle. Loading may be performed using a forklift or other specialized machinery. Goods need to be properly arranged and secured on the pallets to prevent damage and ensure safety during transport."
+    },
+    "ikki": {
+      "title": "Pallet Transportation",
+      "text": "After loading, the goods are transported the required distance using the selected transportation vehicle. It is important to ensure sufficient protection of the goods during transportation against vibrations, impacts, and other external influences."
+    },
+    "uch": {
+      "title": "Unloading",
+      "text": "Upon reaching the destination, the goods are unloaded from the transportation vehicle using the appropriate equipment. Unloading can be done manually or with a forklift. The goods are then checked for integrity and correct placement on the pallets. If necessary, they can be moved to other pallets or packed for storage or further transportation."
+    },
+    "turt": {
+      "title": "Ordering and Planning",
+      "text": "The client places an order and provides information about the furniture items and the points of departure and delivery."
+    },
+    "besh": {
+      "title": "Pickup and Transportation",
+      "text": "The courier arrives to pick up the furniture and loads it into the cargo transport. The furniture is delivered to the destination according to the selected route."
+    },
+    "olti": {
+      "title": "Unloading and Installation",
+      "text": "The courier assists with unloading the furniture and carries it inside the premises. If necessary, the courier can also help with installation or assembly of the furniture."
+    },
+    "yetti": {
+      "title": "Placing the Order",
+      "text": "the client places an order and specifies the delivery address. The courier arrives at the specified location and picks up the package. In this process, the courier may require a confirmation of the client's identity or another form of identification."
+    },
+    "sakkiz": {
+      "title": "Delivery and Tracking",
+      "text": "During transportation, the courier is responsible for ensuring the safety and integrity of the parcel by following the specified route. An important aspect is tracking the status of the parcel through special tracking systems, which allow the client to be informed about its location and expected delivery time."
+    },
+    "tuqqiz": {
+      "title": "Delivery and Confirmation",
+      "text": "upon arrival at the destination, the courier carries out the delivery. The client is provided with the package and needs to carefully check it for any damages and to ensure it matches the order. The client confirms the receipt of the package by signing the delivery document or noting any possible issues or damages."
+    },
+    "un": {
+      "title": "Receiving and Preparing Documents",
+      "text": "the client hands over the necessary documents to the courier service for delivery. The courier checks for all necessary documents and prepares them for dispatch, including packaging and filling out special delivery forms."
+    },
+    "unbir": {
+      "title": "Transportation and Tracking",
+      "text": "the courier delivers the documents to the recipient according to the specified delivery address. During transportation, the courier ensures the safety of the documents and secures them. The client can track the delivery status through a tracking system and be informed about the documents' location in real-time."
+    },
+    "unikki": {
+      "title": "Handover and Delivery Confirmation",
+      "text": "upon arrival at the destination, the courier hands over the documents to the recipient. The recipient carefully checks the received documents and, if they match the expectations, confirms the delivery, for example, with their signature or leaves a comment if there are any issues or damages. If the recipient is absent, the documents can be handed over to someone trusted or left in a specified place, with confirmation provided in the form of a notification or delivery signature."
+    }
+  },
+  "stepone": {
+    "bir": "Pallets",
+    "ikki": "Parcels",
+    "uch": "Documents",
+    "turt": "Small moves"
+  },
+  "calc3": {
+    "title": "car with ramp+",
+    "a1": "street name",
+    "a2": "",
+    "a3": "house number",
+    "a4": "",
+    "a5": "Thank you for your application",
+    "a6": "Our manager will contact you soon"
+  },
+  "my_ads": "My ads",
+  "user_profile": "User profile",
+  "account_details": "Account details",
+  "exit": "Exit"
+}

@@ -1,0 +1,6 @@
+export { default as Main } from './main.jsx'
+export { default as Service } from './service.jsx'
+export { default as Blog } from './blog.jsx'
+export { default as BlogDetail } from './blogDetail.jsx'
+export { default as Reviews } from './reviews.jsx'
+export { default as Calculator } from './calculator.jsx'

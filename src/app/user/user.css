@@ -1,0 +1,34 @@
+/* Define the keyframes for the animation */
+@keyframes slideDown {
+    0% {
+      transform: translateY(-100%);
+    }
+50% {
+        transform: translateY(20%);
+      }
+    100% {
+      transform: translateY(0);
+    }
+  }
+  
+  /* Apply the animation to an element with the .slide-down class */
+  .slide-down {
+    animation: slideDown 1.5s ease;
+  }
+  
+
+  /* Define the keyframes for the animation */
+@keyframes slideUp {
+    0% {
+      transform: translateY(0);
+    }
+    100% {
+      transform: translateY(-100%);
+    }
+  }
+  
+  /* Apply the animation to an element with the .slide-up class */
+  .slide-up {
+    animation: slideUp 1s ease;
+  }
+  

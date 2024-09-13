@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600;700&family=Montserrat:wght@500;600;700;800&family=Raleway:wght@400;500;600;700;800;900&family=Roboto:wght@400;500;700;900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+textarea {
+    resize: none;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: 'Raleway', sans-serif;
+  }
+  
+  
+.zay:hover {
+  background-color: #1348F9;
+} 
+.zay2:hover {
+  background-color: #1E293B;
+}
+
+  ::-webkit-scrollbar {
+    width: 2px;
+}
+  
+/* Track */
+::-webkit-scrollbar-track {
+    /* background: #888; */
+}
+  
+/* Handle */
+::-webkit-scrollbar-thumb {
+    /* background: #555; */
+}
+  
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+
+
+.leaflet-marker-pane {
+  background-color: red !important;
+}
+
+.leaflet-control {
+  display: none;
+}

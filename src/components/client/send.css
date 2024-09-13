@@ -1,0 +1,22 @@
+.card1Content {
+    display: none;
+}
+.card1:hover {
+    opacity: .7;
+}
+.card1:hover .card1Content {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+}
+
+/* .leaflet-control {
+    display: none;
+} */

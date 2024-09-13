@@ -1,0 +1,12 @@
+@media only screen and (min-width: 1734px) and (max-width: 1779px) {
+}
+
+@media screen and (min-width: 1780px) {
+  .hero-left {
+    width: 820px;
+  }
+
+  .hero-right {
+    width: 754px;
+  }
+}
